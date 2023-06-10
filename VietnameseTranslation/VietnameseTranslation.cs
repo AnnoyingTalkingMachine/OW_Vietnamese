@@ -17,7 +17,7 @@ namespace VietnameseTranslation
         private void Start()
         {
             var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
-            api.RegisterLanguage(this, "Vietnamese", "assets/Translation.xml");
+            api.RegisterLanguage(this, "Vietnamese", "assets/VietnameseTranslation.xml");
             api.AddLanguageFont(this, "Space Mono", "assets/spacemono-regular", "Assets/SpaceMono-Regular.ttf");
 
             //// Starting here, you'll have access to OWML's mod helper.

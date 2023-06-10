@@ -13,7 +13,7 @@
 			Suppose it is a relic from a previous universe.
 		</key>
 		<value>
-			Suppose it is a relic from a previous universe.
+			Có lẽ đó là một di vật để lại từ một vũ trụ trước đây.
 		</value>
 	</entry>
 	<entry>
@@ -21,7 +21,7 @@
 			The early universe was unimaginably hot and dense. If anything existed before, it would have been destroyed.
 		</key>
 		<value>
-			The early universe was unimaginably hot and dense. If anything existed before, it would have been destroyed.
+			Nhưng vũ trụ thuở hồng hoang lại nóng và đặc đến mức không thể tưởng tượng nổi. Nếu có thứ gì tồn tại trước đó, thì nó cũng sẽ phải bị phá hủy rồi.
 		</value>
 	</entry>
 	<entry>
@@ -29,48 +29,48 @@
 			Suppose the universe is older than previously assumed.
 		</key>
 		<value>
-			Suppose the universe is older than previously assumed.
+			Có lẽ vũ trụ này nhiều tuổi hơn ước tính trước đây.
 		</value>
 	</entry>
 	<entry>
 		<key>The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires a powerful, highly advanced warp core. How should we obtain it?</key>
-		<value>The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires a powerful, highly advanced warp core. How should we obtain it?</value>
+		<value>&lt;color=orange&gt;Dự Án Ash Twin&lt;/color&gt; yêu cầu một lõi dịch chuyển mạnh mẽ và tân tiến. Làm sao chúng ta kiếm được thứ này nhỉ?</value>
 	</entry>
 	<entry>
 		<key>Solution 2: We could craft a new advanced warp core inspired by the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core.</key>
-		<value>Solution 2: We could craft a new advanced warp core inspired by the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core.</value>
+		<value>Giải pháp 2: Chúng ta có thể chế tạo một lõi dịch chuyển mới dựa trên lõi dịch chuyển của &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>OENO: The greatest challenge here, I think, is we don’t have the design for such a powerful core, or any of the original crafters of the &lt;color=orange&gt;Vessel&lt;/color&gt;’s core.</key>
-		<value>OENO: The greatest challenge here, I think, is we don’t have the design for such a powerful core, or any of the original crafters of the &lt;color=orange&gt;Vessel&lt;/color&gt;’s core.</value>
+		<value>OENO: Vấn đề lớn nhất ở đây, theo tôi, là chúng ta không có bản thiết kế của một chiếc lõi mạnh tới vậy, cũng chẳng có ai đã từng tham gia chế tạo chiếc lõi nguyên bản của &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>CLARY: No, but Poke was apprenticed to Annona, who created the original design, and our &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is adept at crafting simpler cores.</key>
-		<value>CLARY: No, but Poke was apprenticed to Annona, who created the original design, and our &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is adept at crafting simpler cores.</value>
+		<value>CLARY: Không hẳn, Poke đã từng là học trò của Annona, người tạo ra thiết kế nguyên bản, và &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt; của chúng ta đã chế tác thuần thục những loại lõi đơn giản hơn.</value>
 	</entry>
 	<entry>
 		<key>POKE: I believe I can be of use here! The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core was created before my time, but Annona explained many of his designs to me.</key>
-		<value>POKE: I believe I can be of use here! The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core was created before my time, but Annona explained many of his designs to me.</value>
+		<value>POKE: Em nghĩ mình sẽ làm được! Lõi dịch chuyển của &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; đã được chế tạo trước khi em sinh ra, nhưng Annona cũng đã giải thích cho em rất nhiều về thiết kế của thầy ấy.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: This is the safest path for our clan.</key>
-		<value>IDAEA: This is the safest path for our clan.</value>
+		<value>IDAEA: Đây là lựa chọn an toàn nhất cho bộ tộc chúng ta.</value>
 	</entry>
 	<entry>
 		<key>AVENS: Is the safest path the best one? Our goal is worth the risk.</key>
-		<value>AVENS: Is the safest path the best one? Our goal is worth the risk.</value>
+		<value>AVENS: Nhưng liệu an toàn nhất đã là tốt nhất chưa? Sứ mệnh của chúng ta xứng đáng với rủi ro lớn hơn.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Is it, though? We’ve tried for so long to find something that I (and others) now believe might be impossible to find. If the search for the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a futile one, we should choose the option with the least potential for harm.</key>
-		<value>CASSAVA: Is it, though? We’ve tried for so long to find something that I (and others) now believe might be impossible to find. If the search for the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a futile one, we should choose the option with the least potential for harm.</value>
+		<value>CASSAVA: Có chắc là xứng đáng không? Chúng ta đã loay hoay một thời gian rất dài để đi tìm một thứ mà theo tôi (và một vài người khác) là không thể tìm được. Nếu công cuộc tìm kiếm &lt;color=lightblue&gt;Con Mắt&lt;/color&gt; là vô ích, chúng ta nên chọn hướng đi ít nguy cơ rủi ro nhất.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: Abandoning the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core and its casing means losing valuable knowledge.</key>
-		<value>SPIRE: Abandoning the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core and its casing means losing valuable knowledge.</value>
+		<value>SPIRE: Bỏ lại lõi và hộp dịch chuyển của &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; đồng nghĩa với việc mất mát tri thức quý giá.</value>
 	</entry>
 	<entry>
 		<key>MITIS: This is true; however, it’s knowledge we have little hope of recovering. It would be best to relearn, I think.</key>
-		<value>MITIS: This is true; however, it’s knowledge we have little hope of recovering. It would be best to relearn, I think.</value>
+		<value>MITIS: Đúng là như vậy; nhưng mà, đó là tri thức chúng ta chẳng còn nhiều hy vọng tìm lại được. Theo tôi, thà rằng chúng ta tự học lại còn hơn.</value>
 	</entry>
 	<entry>
 		<key>POKE: I would very much like to craft such a powerful core! More relevantly, I believe the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; crew and I could recreate the basic design.</key>
@@ -81,7 +81,7 @@
 			CASSAVA: I imagine I’ve been hard on Poke, again. This in turn means I’ve made things difficult for her sister (Clary).
 		</key>
 		<value>
-			CASSAVA: I imagine I’ve been hard on Poke, again. This in turn means I’ve made things difficult for her sister (Clary).
+			CASSAVA: Hình như tôi lại làm khó Poke rồi. Cũng đồng nghĩa rằng tôi đã làm khó cả chị (Clary) của cô ấy luôn.
 		</value>
 	</entry>
 	<entry>
@@ -89,15 +89,15 @@
 			CASSAVA: If Poke and I are oil and water, Clary is our emulsifier. She certainly makes us a better team than would mixing through shaking (although sometimes I would like to shake Poke!).
 		</key>
 		<value>
-			CASSAVA: If Poke and I are oil and water, Clary is our emulsifier. She certainly makes us a better team than would mixing through shaking (although sometimes I would like to shake Poke!).
-		</value>
+			CASSAVA: Nếu Poke và tôi như dầu với nước, thì Clary là chất nhũ hóa giữa chúng tôi. Nhờ có cô ấy gắn kết, chúng tôi mới hợp tác hài hòa thành một đội được, đỡ hơn nhiều so với việc phải trộn nước và dầu lại với nhau bằng cách lắc đều (mặc dù cũng nhiều lúc tôi muốn lắc cho Poke một trận!).
+		</value> 
 	</entry>
 	<entry>
 		<key>
 			CASSAVA: Jokes aside, suppose my own fear of never finding the &lt;color=lightblue&gt;Eye&lt;/color&gt; prompted my argument with Poke. That would be immature of me.
 		</key>
 		<value>
-			CASSAVA: Jokes aside, suppose my own fear of never finding the &lt;color=lightblue&gt;Eye&lt;/color&gt; prompted my argument with Poke. That would be immature of me.
+			CASSAVA: Đùa vậy thôi, có lẽ nỗi sợ rằng &lt;color=lightblue&gt;Con Mắt&lt;/color&gt; sẽ mãi mãi chẳng tìm được trong tôi đã châm ngòi cho cuộc cãi vã với Poke. Nếu vậy thì tôi thiếu chín chắn quá.
 		</value>
 	</entry>
 	<entry>
@@ -105,23 +105,19 @@
 			CASSAVA: I should apologize... At least to Clary, who could then tell Poke.
 		</key>
 		<value>
-			CASSAVA: I should apologize... At least to Clary, who could then tell Poke.
+			CASSAVA: Tôi nên đi xin lỗi... Ít nhất là xin lỗi Clary, để cô ấy có thể chuyển lời tới Poke.
 		</value>
 	</entry>
 	<entry>
-		<key>
-			POKE: I feel strange, trying to recreate Annona’s warp core without him. At times, it still feels strange to no longer be his (very young) apprentice, and for the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; to be in my care and not his.
-		</key>
-		<value>
-			POKE: I feel strange, trying to recreate Annona’s warp core without him. At times, it still feels strange to no longer be his (very young) apprentice, and for the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; to be in my care and not his.
-		</value>
+		<key>POKE: I feel strange, trying to recreate Annona’s warp core without him. At times, it still feels strange to no longer be his (very young) apprentice, and for the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; to be in my care and not his.</key>
+		<value>POKE: Cố chế tạo lại lõi dịch chuyển của thầy Annona mà không có thầy ấy khiến mình cảm thấy lạ quá. Nhiều lúc, mình vẫn thấy một cảm giác kỳ lạ khi chẳng còn là học trò (bé tí) của thầy nữa, và khi trách nhiệm quản lý &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt; lại trao vào tay mình mà chẳng phải thầy nữa.</value>
 	</entry>
 	<entry>
 		<key>
 			POKE: Hypothesis: This will always feel strange. Even though my time with him was short, I miss my old mentor, and deeply.
 		</key>
 		<value>
-			POKE: Hypothesis: This will always feel strange. Even though my time with him was short, I miss my old mentor, and deeply.
+			POKE: Giả thiết: Cảm giác kỳ lạ này sẽ chẳng dứt đâu. Dù thời gian mình được ở bên thầy thật ngắn ngủi, mình vẫn nhớ thầy ấy da diết.
 		</value>
 	</entry>
 	<entry>
@@ -129,7 +125,7 @@
 			POKE: To have the chance to try is thrilling, but... I don’t want to disappoint everyone. I &lt;i&gt;think&lt;/i&gt; I can do this (probably), but what if excitement has clouded my assessment of my own abilities?
 		</key>
 		<value>
-			POKE: To have the chance to try is thrilling, but... I don’t want to disappoint everyone. I &lt;i&gt;think&lt;/i&gt; I can do this (probably), but what if excitement has clouded my assessment of my own abilities?
+			POKE: Có được cơ hội để thử như vậy cũng thích đấy, nhưng mà... mình nào dám khiến mọi người thất vọng. Mình &lt;i&gt;nghĩ&lt;/i&gt; mình làm được (chắc thế), nhưng nhỡ sự phấn khích này đã khiến mình đánh giá sai khả năng của bản thân thì sao?
 		</value>
 	</entry>
 	<entry>
@@ -137,7 +133,7 @@
 			POKE: Was I wrong in volunteering to build it...? I was born in this star system, and never saw Annona’s warp core with my own three eyes. I only know what he taught me. What if I’ve bitten off a larger portion than I can consume?
 		</key>
 		<value>
-			POKE: Was I wrong in volunteering to build it...? I was born in this star system, and never saw Annona’s warp core with my own three eyes. I only know what he taught me. What if I’ve bitten off a larger portion than I can consume?
+			POKE: Mình có sai lầm không khi nhận việc này nhỉ? Mình được sinh ra ở hệ sao này, và chưa từng được nhìn thấy lõi dịch chuyển của thầy Annona bằng ba con mắt này. Mình chỉ biết những gì thầy đã dạy. Nhỡ mình nhận việc này mà lại làm không xong thì sao?
 		</value>
 	</entry>
 	<entry>
@@ -145,31 +141,23 @@
 			POKE: Still, all I can give is my best. And as Annona would say, should my best prove insufficient, then we will find another way to achieve what’s needed. I have Clary and Root in the forge, and I have my clan. I am not alone!
 		</key>
 		<value>
-			POKE: Still, all I can give is my best. And as Annona would say, should my best prove insufficient, then we will find another way to achieve what’s needed. I have Clary and Root in the forge, and I have my clan. I am not alone!
+			POKE: Dù sao, mình vẫn phải cố gắng hết sức. Thầy Annona cũng nói, nếu có cố hết sức mà vẫn chưa đủ, thì chúng ta sẽ tìm cách khác để đạt tới mục tiêu. Mình có chị Clary và anh Root giúp sức bên trong lò luyện, và mình còn có cả bộ tộc nữa. Mình không hề cô độc!
 		</value>
 	</entry>
 	<entry>
-		<key>
-			SOLANUM: Formation Of This Universe
-		</key>
-		<value>
-			SOLANUM: Formation Of This Universe
-		</value>
+		<key>SOLANUM: Formation Of This Universe</key>
+		<value>SOLANUM: Sự Kiến Tạo Của Vũ Trụ</value>
 	</entry>
 	<entry>
-		<key>
-			SOLANUM: No one knows how this universe was made, but one thing we do know is everything used to be very hot and very dense (tightly packed together).
-		</key>
-		<value>
-			SOLANUM: No one knows how this universe was made, but one thing we do know is everything used to be very hot and very dense (tightly packed togehter).
-		</value>
+		<key>SOLANUM: No one knows how this universe was made, but one thing we do know is everything used to be very hot and very dense (tightly packed together).</key>
+		<value>SOLANUM: Chẳng ai biết rõ vũ trụ này đã sinh ra như thế nào, nhưng chúng ta biết được rằng nó đã từng rất nóng và rất đặc (xếp sát khít lại với nhau).</value>
 	</entry>
 	<entry>
 		<key>
 			SOLANUM: As this early universe expanded, it also cooled down. Once it had cooled down enough, particles were able to group together to form things like galaxies, stars, and planets!
 		</key>
 		<value>
-			SOLANUM: As this early universe expanded, it also cooled down. Once it had cooled down enough, particles were able to group together to form things like galaxies, stars, and planets!
+			SOLANUM: Khi vũ trụ trẻ này nở rộng, nó cũng dần nguội đi. Khi đã đủ nguội rồi, các phân tử có thể kết hợp lại với nhau để tạo nên các thiên hà, những vì sao, và cả các hành tinh!
 		</value>
 	</entry>
 	<entry>
@@ -177,7 +165,7 @@
 			SOLANUM: Since then, space has continued to expand at a faster and faster rate, which is hard to think about for too long without your brain hurting.
 		</key>
 		<value>
-			SOLANUM: Since then, space has continued to expand at a faster and faster rate, which is hard to think about for too long without your brain hurting.
+			SOLANUM: Từ đó đến giờ, vũ trụ vẫn luôn nở rộng với tốc độ ngày càng nhanh. Điều này rất khó để nghĩ lâu mà không làm đau não.
 		</value>
 	</entry>
 	<entry>
@@ -185,7 +173,7 @@
 			SOLANUM: This universe will keep getting colder and larger, until one day, the stars and the life they support will all die.
 		</key>
 		<value>
-			SOLANUM: This universe will keep getting colder and larger, until one day, the stars and the life they support will all die.
+			SOLANUM: Vũ trụ sẽ cứ thế lạnh hơn và rộng hơn, cho đến một ngày, những vì sao và sự sống chúng nuôi dưỡng cũng sẽ kết thúc.
 		</value>
 	</entry>
 	<entry>
@@ -193,7 +181,7 @@
 			SOLANUM: That’s scary to think about, even though Conoy tells me it won’t happen in our lifetimes. But it’ll happen in someone else’s, someday!
 		</key>
 		<value>
-			SOLANUM: That’s scary to think about, even though Conoy tells me it won’t happen in our lifetimes. But it’ll happen in someone else’s, someday!
+			SOLANUM: Điều này thật đáng sợ, kể cả khi thầy Conoy bảo mình nó sẽ chưa xảy ra trong cuộc đời của chúng ta. Nhưng nó sẽ xảy ra với cuộc đời của người khác, vào một ngày nào đó!
 		</value>
 	</entry>
 	<entry>
@@ -4388,63 +4376,63 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: I am here! After watching it wander the skies for so long, I am about to stand (for the first time) on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</key>
-		<value>SOLANUM: I am here! After watching it wander the skies for so long, I am about to stand (for the first time) on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</value>
+		<value>SOLANUM: Tôi tới nơi rồi! Sau ngần ấy thời gian ngắm nhìn hành tinh này lảng vảng khắp những bầu trời, tôi sắp được (lần đầu) đặt chân lên &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: As expected, my &lt;color=orange&gt;shuttle&lt;/color&gt; has landed at the moon’s south pole. I will make the remainder of my journey on foot.</key>
-		<value>SOLANUM: As expected, my &lt;color=orange&gt;shuttle&lt;/color&gt; has landed at the moon’s south pole. I will make the remainder of my journey on foot.</value>
+		<value>SOLANUM: Đúng như kỳ vọng, &lt;color=orange&gt;phi thuyền&lt;/color&gt; của tôi đã tiếp đất tại cực nam của mặt trăng. Tôi sẽ đi bộ trên quãng hành trình còn lại.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: We don’t know why the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; always welcomes its visitors at the south pole, just that this is true.</key>
-		<value>SOLANUM: We don’t know why the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; always welcomes its visitors at the south pole, just that this is true.</value>
+		<value>SOLANUM: Chúng ta chẳng biết tại sao &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; lại luôn đón khách ở chính xác nam cực, ta chỉ biết điều này là đúng.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: As a child, I considered such unknowns sinister. Now, though, I understand they bear no ill will. The universe is, and we are.</key>
-		<value>SOLANUM: As a child, I considered such unknowns sinister. Now, though, I understand they bear no ill will. The universe is, and we are.</value>
+		<value>SOLANUM: Khi còn là một đứa trẻ, tôi từng cho rằng những điều bí ẩn ấy thật xấu xa, ghê rợn. Nhưng giờ đây, tôi hiểu rằng chúng chẳng mang một chút ác ý nào. Vũ trụ này tồn tại, và chúng ta cũng thế.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I am ready.</key>
-		<value>SOLANUM: I am ready.</value>
+		<value>SOLANUM: Tôi đã sẵn sàng.</value>
 	</entry>
 	<entry>
 		<key>
 			WARNING: Opens emergency door.
 		</key>
 		<value>
-			WARNING: Opens emergency door.
+			CẢNH BÁO: Mở cửa thoát hiểm.
 		</value>
 	</entry>
 	<entry>
 		<key>PYE: Mission: Science compels us to explode the &lt;color=lightblue&gt;sun&lt;/color&gt;!</key>
-		<value>PYE: Mission: Science compels us to explode the &lt;color=lightblue&gt;sun&lt;/color&gt;!</value>
+		<value>PYE: Nhiệm vụ: Khoa học ép chúng ta phải kích nổ &lt;color=lightblue&gt;mặt trời&lt;/color&gt;!</value>
 	</entry>
 	<entry>
 		<key>IDAEA: Here’s a better one. Mission: Determine if it’s possible to prompt the &lt;color=lightblue&gt;sun&lt;/color&gt; to explode.</key>
-		<value>IDAEA: Here’s a better one. Mission: Determine if it’s possible to prompt the &lt;color=lightblue&gt;sun&lt;/color&gt; to explode.</value>
+		<value>IDAEA: Phát biểu thế này hay hơn đấy. Nhiệm vụ: Xác định xem việc kích nổ &lt;color=lightblue&gt;mặt trời&lt;/color&gt; có khả thi hay không.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: Can’t we change this? I don’t enjoy working in view of such a morbid mission statement.</key>
-		<value>IDAEA: Can’t we change this? I don’t enjoy working in view of such a morbid mission statement.</value>
+		<value>IDAEA: Không đổi được à? Tôi không thích phải làm việc với một phát biểu nhiệm vụ bệnh hoạn như vậy.</value>
 	</entry>
 	<entry>
 		<key>PYE: But it’s accurate. We’re going to create a supernova for the purpose of scientific progress. That’s our mission.</key>
-		<value>PYE: But it’s accurate. We’re going to create a supernova for the purpose of scientific progress. That’s our mission.</value>
+		<value>PYE: Nhưng phát biểu như vậy mới chính xác. Chúng ta sẽ tạo ra một vụ nổ siêu tân tinh vì khoa học. Đó là nhiệm vụ của chúng ta.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: Our mission is to decide if such an irresponsible feat is even possible.</key>
-		<value>IDAEA: Our mission is to decide if such an irresponsible feat is even possible.</value>
+		<value>IDAEA: Nhiệm vụ của chúng ta là quyết định xem liệu một việc vô trách nhiệm như vậy có khả thi hay không.</value>
 	</entry>
 	<entry>
 		<key>PYE: You lack a sense of humor.</key>
-		<value>PYE: You lack a sense of humor.</value>
+		<value>PYE: Cái đồ thiếu hài hước.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: At least I don’t lack a sense of ethics!</key>
-		<value>IDAEA: At least I don’t lack a sense of ethics!</value>
+		<value>IDAEA: Ít ra tôi không thiếu đạo đức!</value>
 	</entry>
 	<entry>
 		<key>PYE: Kindly refrain from going supernova on me before the &lt;color=lightblue&gt;sun&lt;/color&gt; does, Idaea.</key>
-		<value>PYE: Kindly refrain from going supernova on me before the &lt;color=lightblue&gt;sun&lt;/color&gt; does, Idaea.</value>
+		<value>PYE: Làm ơn đừng phát nổ siêu tân tinh vào mặt tôi khi &lt;color=lightblue&gt;mặt trời&lt;/color&gt; còn chưa kịp phát nổ, Idaea.</value>
 	</entry>
 	<entry>
 		<key>THATCH: Where should this new, more sophisticated locator be built? It may need to be larger than this &lt;color=orange&gt;Eye signal locator&lt;/color&gt; is.</key>
@@ -13142,7 +13130,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>215</key>
-			<value>   Wake Up</value>
+			<value>   Tỉnh Dậy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>216</key>
