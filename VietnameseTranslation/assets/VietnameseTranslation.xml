@@ -42,7 +42,7 @@
 	</entry>
 	<entry>
 		<key>OENO: The greatest challenge here, I think, is we don’t have the design for such a powerful core, or any of the original crafters of the &lt;color=orange&gt;Vessel&lt;/color&gt;’s core.</key>
-		<value>OENO: Vấn đề lớn nhất ở đây, theo tôi, là chúng ta không có bản thiết kế của một chiếc lõi mạnh tới vậy, cũng chẳng có ai đã từng tham gia chế tạo chiếc lõi nguyên bản của &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;.</value>
+		<value>OENO: Vấn đề lớn nhất ở đây, theo tôi, là chúng ta không có bản thiết kế của một chiếc lõi mạnh tới vậy, cũng chẳng còn ai đã từng tham gia trực tiếp chế tạo chiếc lõi nguyên bản của &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>CLARY: No, but Poke was apprenticed to Annona, who created the original design, and our &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is adept at crafting simpler cores.</key>
@@ -246,7 +246,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: Use caution! A black hole sleeps below. You must not slip.</key>
-		<value>PLUME: Cẩn thận! Bên dưới có một lỗ đen không hoạt động. Mọi người không được trượt chân.</value>
+		<value>PLUME: Cẩn thận! Bên dưới có một hố đen không hoạt động. Mọi người không được trượt chân.</value>
 	</entry>
 	<entry>
 		<key>Emergency escape hatch</key>
@@ -1008,7 +1008,7 @@
 	</entry>
 	<entry>
 		<key>WokeUp1CMakes sense to me, seeing how jumping into the black hole is definitely what created two of us.</key>
-		<value>Nghe hợp lý đấy, có vẻ việc nhảy vào lỗ đen đã tạo ra hai phiên bản của chúng ta.</value>
+		<value>Nghe hợp lý đấy, có vẻ việc nhảy vào hố đen đã tạo ra hai phiên bản của chúng ta.</value>
 	</entry>
 	<entry>
 		<key>Excited1Sure, two of us is great and all, but is it the &lt;i&gt;greatest&lt;/i&gt;? What about the day we, you know... what about that one?</key>
@@ -1052,7 +1052,7 @@
 	</entry>
 	<entry>
 		<key>Excited3BI started this loop by popping out of a white hole inside the Ash Twin Project, since in the loop before this one I jumped into the black hole.</key>
-		<value>Tôi bắt đầu vòng lặp này bằng việc tòi ra khỏi một lỗ trắng trong Dự Án Ash Twin này, vì vòng lặp trước đó tôi đã nhảy vào trong hố đen.</value>
+		<value>Tôi bắt đầu vòng lặp này bằng việc tòi ra khỏi một hố trắng trong Dự Án Ash Twin này, vì vòng lặp trước đó tôi đã nhảy vào trong hố đen.</value>
 	</entry>
 	<entry>
 		<key>Excited3AYeah, now you've got it. That was an incredible day.</key>
@@ -1080,7 +1080,7 @@
 	</entry>
 	<entry>
 		<key>Looped1I think so. I started this current loop by popping out of a white hole inside the Ash Twin Project.</key>
-		<value>Tôi nghĩ vậy. Tôi bắt đầu vòng lặp này khi tòi ra khỏi một lỗ trắng bên trong Dự Án Ash Twin.</value>
+		<value>Tôi nghĩ vậy. Tôi bắt đầu vòng lặp này khi tòi ra khỏi một hố trắng bên trong Dự Án Ash Twin.</value>
 	</entry>
 	<entry>
 		<key>SelfLooped1I started at the campfire like usual.</key>
@@ -1244,7 +1244,7 @@
 	</entry>
 	<entry>
 		<key>Merge1BI think so, at least. Although here's a question for you — what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>Ít nhất là tôi nghĩ vậy. Nhưng tôi có câu hỏi này cho cậu nè — cậu nghĩ chuyện gì sẽ xảy ra nếu cậu không nhảy vào trong lỗ đen ở cuối vòng lặp này?</value>
+		<value>Ít nhất là tôi nghĩ vậy. Nhưng tôi có câu hỏi này cho cậu nè — cậu nghĩ chuyện gì sẽ xảy ra nếu cậu không nhảy vào trong hố đen ở cuối vòng lặp này?</value>
 	</entry>
 	<entry>
 		<key>SelfMerge1BHuh. That's a good question.</key>
@@ -1260,7 +1260,7 @@
 	</entry>
 	<entry>
 		<key>MergeHey, what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>Này, cậu nghĩ chuyện gì sẽ xảy ra nếu cậu không nhảy vào trong lỗ đen ở cuối vòng lặp này?</value>
+		<value>Này, cậu nghĩ chuyện gì sẽ xảy ra nếu cậu không nhảy vào trong hố đen ở cuối vòng lặp này?</value>
 	</entry>
 	<entry>
 		<key>SelfMergeHuh. That's a good question.</key>
@@ -1452,146 +1452,146 @@
 	</entry>
 	<entry>
 		<key>should be dead 2aWow, I guess I AM pretty sarcastic.</key>
-		<value>Wow, I guess I AM pretty sarcastic.</value>
+		<value>Wow, hóa ra bản thân tôi giờ cũng biết đá đểu rồi đấy.</value>
 	</entry>
 	<entry>
 		<key>should be dead 3It's unsettling to think about. Especially when you remember even Riebeck survived their first launch.</key>
-		<value>It's unsettling to think about. Especially when you remember even Riebeck survived their first launch.</value>
+		<value>Nghĩ lại thôi cũng thấy rợn người rồi. Nhất là khi cậu nhớ ra việc đến Riebeck cũng sống sót trong lần đầu cất cánh.</value>
 	</entry>
 	<entry>
 		<key>sun stationYES. I can’t believe no one was around to see that.\\n\\nWe’re probably the best pilot in the space program by now.</key>
-		<value>YES. I can’t believe no one was around to see that.\\n\\nWe’re probably the best pilot in the space program by now.</value>
+		<value>ĐÚNG RỒI. Không tin được là chẳng có ai thấy được cảnh đó.\\n\\nCó lẽ bây giờ chúng ta là phi hành gia đỉnh nhất của chương trình không gian đấy.</value>
 	</entry>
 	<entry>
 		<key>Selfsun stationYeah, but we’ve also died more than anyone else.</key>
-		<value>Yeah, but we’ve also died more than anyone else.</value>
+		<value>Ừm, nhưng mà chúng ta cũng đã chết nhiều hơn những người khác.</value>
 	</entry>
 	<entry>
 		<key>Selfsun stationNot that anyone else knows it.</key>
-		<value>Not that anyone else knows it.</value>
+		<value>Cũng không hẳn là chưa ai biết.</value>
 	</entry>
 	<entry>
 		<key>Selfsun stationI needed to brag about that to someone a little.</key>
-		<value>I needed to brag about that to someone a little.</value>
+		<value>Thi thoảng tôi cũng muốn khoe vụ này lắm chứ.</value>
 	</entry>
 	<entry>
 		<key>Selfsun stationDid that technically happen, &lt;i&gt;with&lt;/i&gt; how the time loop works?</key>
-		<value>Did that technically happen, &lt;i&gt;with&lt;/i&gt; how the time loop works?</value>
+		<value>Nhưng chuyện đó liệu đã thực sự xảy ra chưa, khi nó diễn ra ở một vòng lặp thời gian &lt;i&gt;khác&lt;/i&gt;?</value>
 	</entry>
 	<entry>
 		<key>sun station 2That’s true. &lt;pause&gt; I’m not sure how to factor that in.</key>
-		<value>That’s true. &lt;pause&gt; I’m not sure how to factor that in.</value>
+		<value>Ừ nhỉ. &lt;pause&gt; Tôi chẳng biết vụ này phải tính sao.</value>
 	</entry>
 	<entry>
 		<key>sun station 3Still, it’s kind of nice to get to say it out loud. Even if it’s just to ourself.</key>
-		<value>Still, it’s kind of nice to get to say it out loud. Even if it’s just to ourself.</value>
+		<value>Dù sao thì, được khoe ra cũng thích phết. Kể cả khi chúng ta tự khoe với nhau.</value>
 	</entry>
 	<entry>
 		<key>sun station 4That’s fine. It’s kind of nice to hear it said out loud.</key>
-		<value>That’s fine. It’s kind of nice to hear it said out loud.</value>
+		<value>Ổn mà. Được nghe ai khác kể về chuyện này cũng thích lắm chứ.</value>
 	</entry>
 	<entry>
 		<key>sun station 5What? ...Oh, come on, don’t take that away from us!</key>
-		<value>What? ...Oh, come on, don’t take that away from us!</value>
+		<value>Hả? ...Ơ, thôi xin, đừng phủ nhận chiến công này của chúng ta mà!</value>
 	</entry>
 	<entry>
 		<key>Selfsun station 5Just kidding, I don't care how time works.</key>
-		<value>Just kidding, I don't care how time works.</value>
+		<value>Đùa thôi, chứ tôi cũng chẳng quan tâm thời gian hoạt động thế nào.</value>
 	</entry>
 	<entry>
 		<key>Selfsun station 5But given it only happened in a previous loop...</key>
-		<value>But given it only happened in a previous loop...</value>
+		<value>Nhưng mà vì chuyện đó đã xảy ra ở một vòng lặp thời gian trước...</value>
 	</entry>
 	<entry>
 		<key>sun station 5aHaha, yeah, me either. &lt;pause&gt; ...Obviously.</key>
-		<value>Haha, yeah, me either. &lt;pause&gt; ...Obviously.</value>
+		<value>Haha, ừ, tôi cũng chẳng quan tâm. &lt;pause&gt; ...Cậu cũng biết thừa mà.</value>
 	</entry>
 	<entry>
 		<key>sun station 5bThe worst part is we’re the same person, and you know I’m going to agree with you. (Sigh...)</key>
-		<value>The worst part is we’re the same person, and you know I’m going to agree with you. (Sigh...)</value>
+		<value>Rất dở khi chúng ta là cùng một người, và cậu biết thừa thể nào tôi cũng sẽ phải đồng ý với cậu thôi. (haizzz...)</value>
 	</entry>
 	<entry>
 		<key>CLARY: Regarding the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: Does each tower have to be perfectly aligned with the center of the astral body to which it’s tuned?</key>
-		<value>CLARY: Regarding the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: Does each tower have to be perfectly aligned with the center of the astral body to which it’s tuned?</value>
+		<value>CLARY: Hỏi về các tháp dịch chuyển trên &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: Mỗi tòa tháp có cần phải thẳng hàng tuyệt đối với tâm của thiên thể đích đến không?</value>
 	</entry>
 	<entry>
 		<key>CLARY: I enjoy precision as much as the next Nomai, but if, for example, a tower’s base were to shift even slightly, that tower might no longer align with its astral body.</key>
-		<value>CLARY: I enjoy precision as much as the next Nomai, but if, for example, a tower’s base were to shift even slightly, that tower might no longer align with its astral body.</value>
+		<value>CLARY: Tôi đam mê tính chính xác y hệt người Nomai đang đứng cạnh mình, nhưng nhỡ đâu, ví dụ nhé, móng của một tòa tháp chỉ cần bị xê dịch một khoảng nhỏ thôi, thì tòa tháp ấy sẽ không còn thẳng hàng với thiên thể đích đến nữa.</value>
 	</entry>
 	<entry>
 		<key>POKE: We don’t need the alignment angle to be exact; it only needs to be within five degrees of the astral body’s center.</key>
-		<value>POKE: We don’t need the alignment angle to be exact; it only needs to be within five degrees of the astral body’s center.</value>
+		<value>POKE: Ta không cần góc ngắm thẳng phải chính xác đâu; chỉ cần nằm trong khoảng lệch 5 độ so với tâm của thiên thể đích đến là được.</value>
 	</entry>
 	<entry>
 		<key>POKE: Of note: This gives us a slightly longer warp window. I imagine this window will last roughly several seconds.</key>
-		<value>POKE: Of note: This gives us a slightly longer warp window. I imagine this window will last roughly several seconds.</value>
+		<value>POKE: Lưu ý: Điều này cũng khiến cổng dịch chuyển sẵn sàng trong một khoảng thời gian dài hơn một chút. Chắc mỗi lần sẽ kéo dài khoảng vài giây.</value>
 	</entry>
 	<entry>
 		<key>POKE: As such, any Nomai stepping onto the warp platform during the active window will be immediately warped. We will need to be careful around the platform for the duration of the time it’s active to avoid accidental transportation.</key>
-		<value>POKE: As such, any Nomai stepping onto the warp platform during the active window will be immediately warped. We will need to be careful around the platform for the duration of the time it’s active to avoid accidental transportation.</value>
+		<value>POKE: Như vậy, bất cứ người Nomai nào bước lên bệ dịch chuyển khi cổng dịch chuyển đang sẵn sàng sẽ được dịch chuyển ngay lập tức. Nên ta sẽ phải cẩn thận mỗi khi đứng gần bệ dịch chuyển đang kích hoạt để tránh bị dịch chuyển ngoài ý muốn.</value>
 	</entry>
 	<entry>
 		<key>CLARY: More accurately, I enjoy precision as much as the next Nomai, provided the next Nomai is not Poke.</key>
-		<value>CLARY: More accurately, I enjoy precision as much as the next Nomai, provided the next Nomai is not Poke.</value>
+		<value>CLARY: Cho tôi sửa lại, tôi đam mê tính chính xác y hệt người Nomai đang đứng cạnh mình, nếu người Nomai đó không phải Poke.</value>
 	</entry>
 	<entry>
 		<key>ROOT: Where am I taking this first black hole core? (And where am I taking the remaining cores once they’re ready?)</key>
-		<value>ROOT: Where am I taking this first black hole core? (And where am I taking the remaining cores once they’re ready?)</value>
+		<value>ROOT: Tôi cần mang lõi hố đen đầu tiên này tới đâu nhỉ? (Và tôi cần mang những lõi khác tới đâu khi chúng đã hoàn thiện?)</value>
 	</entry>
 	<entry>
 		<key>CLARY: All of the warp towers are being constructed on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, so the black hole cores will go there.</key>
-		<value>CLARY: All of the warp towers are being constructed on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, so the black hole cores will go there.</value>
+		<value>CLARY: Tất cả các tháp dịch chuyển đều đang được xây dựng trên &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, nên các lõi hố đen sẽ được vận chuyển tới đó.</value>
 	</entry>
 	<entry>
 		<key>POKE: The white hole cores are for the warp receivers. Each of the six receivers are being constructed at different locations, so those deliveries will be a greater pain in your cervical spine.</key>
-		<value>POKE: The white hole cores are for the warp receivers. Each of the six receivers are being constructed at different locations, so those deliveries will be a greater pain in your cervical spine.</value>
+		<value>POKE: Còn các lõi hố trắng được dùng cho các cổng dịch chuyển đích. Chúng đang được xây dựng ở sáu địa điểm khác nhau, nên việc vận chuyển các lõi hố trắng sẽ phiền phức hơn nhiều đấy.</value>
 	</entry>
 	<entry>
 		<key>ROOT: My gratitude! In that case: Poke, Clary, I’m leaving for delivery! I’ll send Yarrow your regards.</key>
-		<value>ROOT: My gratitude! In that case: Poke, Clary, I’m leaving for delivery! I’ll send Yarrow your regards.</value>
+		<value>ROOT: Cảm tạ nhé! Vậy thì: Poke, Clary, tôi đi vận chuyển đây! Tôi sẽ chuyển lời tới Yarrow giúp hai người.</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke, I’ll return to the &lt;color=orange&gt;forge&lt;/color&gt; shortly; I’m going to catch up to Root and help him deliver the first core to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, just to make sure Yarrow receives it.</key>
-		<value>CLARY: Poke, I’ll return to the &lt;color=orange&gt;forge&lt;/color&gt; shortly; I’m going to catch up to Root and help him deliver the first core to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, just to make sure Yarrow receives it.</value>
+		<value>CLARY: Poke, chị sẽ quay lại &lt;color=orange&gt;lò luyện&lt;/color&gt; ngay; chị sẽ đi theo Root để phụ giúp cậu ấy vận chuyển chiếc lõi đầu tiên tới &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, chị muốn đảm bảo rằng Yarrow sẽ nhận được nó.</value>
 	</entry>
 	<entry>
 		<key>POKE: Of course you are.</key>
-		<value>POKE: Of course you are.</value>
+		<value>POKE: Hẳn là đi giúp.</value>
 	</entry>
 	<entry>
 		<key>POKE: The tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; reveal each receiver's location. Ask Yarrow; he is familiar with them.</key>
-		<value>POKE: The tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; reveal each receiver's location. Ask Yarrow; he is familiar with them.</value>
+		<value>POKE: Các bản thiết kế tháp tại &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; ở &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; có ghi lại vị trí của từng cổng dịch chuyển đích. Hỏi Yarrow ấy; anh ta biết vụ này.</value>
 	</entry>
 	<entry>
 		<key>WARNING: Be cautious near the boarding area while the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is in operation.</key>
-		<value>WARNING: Be cautious near the boarding area while the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is in operation.</value>
+		<value>CẢNH BÁO: Cẩn trọng khi ở gần khu vực tiếp đất trong lúc &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt; đang hoạt động.</value>
 	</entry>
 	<entry>
 		<key>POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will never activate, because its warp receiver will never align overhead.</key>
-		<value>POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will never activate, because its warp receiver will never align overhead.</value>
+		<value>POKE: Lưu ý: Yarrow tưởng rằng anh ta đã tìm thấy lỗi thiết kế tháp dịch chuyển: cụ thể, một tháp dịch chuyển trên &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; sẽ không bao giờ kích hoạt, vì nó không bao giờ ngắm thẳng được tới cổng dịch chuyển đích.</value>
 	</entry>
 	<entry>
 		<key>POKE: Does your romantic interest think a warp tower’s alignment point is its &lt;i&gt;receiver&lt;/i&gt;? Does he not know that a warp tower always aligns with the center of its corresponding astral body?</key>
-		<value>POKE: Does your romantic interest think a warp tower’s alignment point is its &lt;i&gt;receiver&lt;/i&gt;? Does he not know that a warp tower always aligns with the center of its corresponding astral body?</value>
+		<value>POKE: Người yêu của chị nghĩ tháp dịch chuyển sẽ ngắm thẳng tới &lt;i&gt;cổng đích&lt;/i&gt; à? Anh ta không biết rằng tháp dịch chuyển luôn ngắm thẳng tới tâm của thiên thể đích đến tương ứng ư?</value>
 	</entry>
 	<entry>
 		<key>CLARY: That isn’t an unreasonable belief, given the receiver &lt;i&gt;does&lt;/i&gt; have to be located on (or in close orbit around) the relevant astral body.</key>
-		<value>CLARY: That isn’t an unreasonable belief, given the receiver &lt;i&gt;does&lt;/i&gt; have to be located on (or in close orbit around) the relevant astral body.</value>
+		<value>CLARY: Hiểu lầm như vậy là có cơ sở mà, vì cổng đích &lt;i&gt;phải&lt;/i&gt; được đặt trên (hoặc bay trên quỹ đạo xoay quanh) thiên thể tương ứng.</value>
 	</entry>
 	<entry>
 		<key>CLARY: I seem to recall that was &lt;i&gt;your&lt;/i&gt; understanding of warp technology, at first.</key>
-		<value>CLARY: I seem to recall that was &lt;i&gt;your&lt;/i&gt; understanding of warp technology, at first.</value>
+		<value>CLARY: Hình như chị nhớ là &lt;i&gt;em&lt;/i&gt; cũng đã từng hiểu về công nghệ dịch chuyển theo kiểu vậy.</value>
 	</entry>
 	<entry>
 		<key>CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; are so close together they function as a single astral body, with a shared alignment point in between them.</key>
-		<value>CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; are so close together they function as a single astral body, with a shared alignment point in between them.</value>
+		<value>CLARY: Không phải, Yarrow hiểu được sự khác nhau đó. Có lẽ anh ấy không nhận ra rằng, hai hành tinh của &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; ở gần nhau đến mức chúng hoạt động như một thiên thể đơn nhất, và sẽ dùng chung một điểm ngắm thẳng ở giữa.</value>
 	</entry>
 	<entry>
 		<key>
 			Exit to surface.
 		</key>
 		<value>
-			Exit to surface.
+			Lối thoát tới mặt đất.
 		</value>
 	</entry>
 	<entry>
@@ -1599,43 +1599,43 @@
 			&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(north 40m)
 		</key>
 		<value>
-			&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(north 40m)
+			&lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt;\\n(phía Bắc 40m)
 		</value>
 	</entry>
 	<entry>
 		<key>PYE: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will be one of our biggest undertakings (metaphorically &lt;i&gt;and&lt;/i&gt; physically). To build it, we need a way to travel quickly between &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; and each location that holds crucial project materials.</key>
-		<value>PYE: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will be one of our biggest undertakings (metaphorically &lt;i&gt;and&lt;/i&gt; physically). To build it, we need a way to travel quickly between &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; and each location that holds crucial project materials.</value>
+		<value>PYE: &lt;color=orange&gt;Dự Án Ash Twin&lt;/color&gt; sẽ là một trong những công trình lớn nhất của chúng ta (về mặt ý nghĩa &lt;i&gt;lẫn&lt;/i&gt; quy mô vật lý). Để có thể xây dựng, ta cần tìm cách để di chuyển nhanh chóng giữa &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; và những địa điểm nắm giữ vật liệu quan trọng tới dự án.</value>
 	</entry>
 	<entry>
 		<key>ROOT: What if we used warp towers (like the one we have on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;) to connect &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; directly to each critical location?</key>
-		<value>ROOT: What if we used warp towers (like the one we have on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;) to connect &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; directly to each critical location?</value>
+		<value>ROOT: Nếu ta sử dụng nhiều tháp dịch chuyển (tương tự cái tháp ở &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt;) để kết nối trực tiếp &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; tới các địa điểm đó thì sao?</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke, Root, and I can begin work on this immediately in the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; (this will keep us busy!).</key>
-		<value>CLARY: Poke, Root, and I can begin work on this immediately in the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; (this will keep us busy!).</value>
+		<value>CLARY: Poke, Root, và tôi có thể lập tức bắt đầu công việc tại &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt; (sẽ bận một thời gian đấy!).</value>
 	</entry>
 	<entry>
 		<key>YARROW: Of note: Each tower on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will warp to a different planet.</key>
-		<value>YARROW: Of note: Each tower on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will warp to a different planet.</value>
+		<value>YARROW: Cần lưu ý rằng: Mỗi tòa tháp trên &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; sẽ dịch chuyển tới một hành tinh khác nhau.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: We can design each tower to visually reflect its warp destination!</key>
-		<value>PHLOX: We can design each tower to visually reflect its warp destination!</value>
+		<value>PHLOX: Ta có thể thiết kế mỗi tòa tháp dựa trên cảnh quan của từng hành tinh đích đến!</value>
 	</entry>
 	<entry>
 		<key>PHLOX: The &lt;color=orange&gt;Giant’s Deep tower&lt;/color&gt;, for instance, could resemble a cyclone. And we could model the &lt;color=orange&gt;Timber Hearth tower&lt;/color&gt; after a geyser mountain!</key>
-		<value>PHLOX: The &lt;color=orange&gt;Giant’s Deep tower&lt;/color&gt;, for instance, could resemble a cyclone. And we could model the &lt;color=orange&gt;Timber Hearth tower&lt;/color&gt; after a geyser mountain!</value>
+		<value>PHLOX: &lt;color=orange&gt;Tháp dịch chuyển tới Giant’s Deep&lt;/color&gt; chẳng hạn, có thể thiết kế trông giống một vòi rồng. Và ta cũng có thể thiết kế &lt;color=orange&gt;tháp dịch chuyển tới Timber Hearth&lt;/color&gt; trông như một núi phun nước!</value>
 	</entry>
 	<entry>
 		<key>YARROW: My gratitude to those who noted my imprecise language! Yes, the &lt;color=lightblue&gt;sun&lt;/color&gt; is not a planet. I believe this has been sufficiently clarified (kindly stop reminding me!).</key>
-		<value>YARROW: My gratitude to those who noted my imprecise language! Yes, the &lt;color=lightblue&gt;sun&lt;/color&gt; is not a planet. I believe this has been sufficiently clarified (kindly stop reminding me!).</value>
+		<value>YARROW: Gửi lời cảm tạ tới những ai đã chỉ ra việc dùng từ chưa chính xác của tôi! Đúng vậy, &lt;color=lightblue&gt;mặt trời&lt;/color&gt; không phải một hành tinh. Tôi tin rằng điều này đã được chứng minh đầy đủ (nên làm ơn đừng bắt tôi nhớ lại nữa!).</value>
 	</entry>
 	<entry>
 		<key>
 			Retrieving previous launch data from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
 		</key>
 		<value>
-			Retrieving previous launch data from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
+			Đang tiếp nhận dữ liệu phóng từ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -1643,7 +1643,7 @@
 			Total number of probes launched: &lt;NbTimeloops&gt;
 		</key>
 		<value>
-			Total number of probes launched: &lt;NbTimeloops&gt;
+			Tổng số vệ tinh do thám đã phóng: &lt;NbTimeloops&gt;
 		</value>
 	</entry>
 	<entry>
@@ -1651,108 +1651,108 @@
 			Deep space anomaly matching all known criteria for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; found by probe &lt;FirstLoop&gt;.
 		</key>
 		<value>
-			Deep space anomaly matching all known criteria for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; found by probe &lt;FirstLoop&gt;.
+			Điểm kỳ dị vũ trụ trùng khớp với tính chất của &lt;color=lightblue&gt;Con Mắt Vũ Trụ&lt;/color&gt; đã được tìm thấy bởi vệ tinh do thám &lt;FirstLoop&gt;.
 		</value>
 	</entry>
 	<entry>
 		<key>CLARY: I have good news, Yarrow! The advanced warp core is ready to be installed in the central chamber of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-		<value>CLARY: I have good news, Yarrow! The advanced warp core is ready to be installed in the central chamber of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</value>
+		<value>CLARY: Em có tin mừng, Yarrow ơi! Lõi dịch chuyển cao cấp đã sẵn sàng để lắp đặt tại buồng trung tâm của &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>YARROW: I’m intrigued, love! Everyone here working on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is excited to see it (Pye is beside herself with joy!).</key>
-		<value>YARROW: I’m intrigued, love! Everyone here working on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is excited to see it (Pye is beside herself with joy!).</value>
+		<value>YARROW: Anh xúc động quá, Clary yêu dấu! Mọi người trong &lt;color=orange&gt;Dự Án Ash Twin&lt;/color&gt; đều rất hào hứng được thấy cái lõi đấy (Pye còn đang làm ầm lên vì phấn khích này!).</value>
 	</entry>
 	<entry>
 		<key>POKE: No, it isn’t!</key>
-		<value>POKE: No, it isn’t!</value>
+		<value>POKE: Chưa, cái lõi còn khuya mới sẵn sàng!</value>
 	</entry>
 	<entry>
 		<key>YARROW: Is everything well at the &lt;color=orange&gt;forge&lt;/color&gt;?</key>
-		<value>YARROW: Is everything well at the &lt;color=orange&gt;forge&lt;/color&gt;?</value>
+		<value>YARROW: Mọi chuyện vẫn ổn ở &lt;color=orange&gt;lò luyện&lt;/color&gt; chứ?</value>
 	</entry>
 	<entry>
 		<key>CLARY: Don’t worry, love; Poke is only nervous. The core is extraordinary, and her design work is beautifully clever.</key>
-		<value>CLARY: Don’t worry, love; Poke is only nervous. The core is extraordinary, and her design work is beautifully clever.</value>
+		<value>CLARY: Đừng lo, anh yêu; Poke chỉ hơi lo lắng chút thôi. Chiếc lõi rất xuất sắc, và thiết kế của con bé tài tình đến mê hồn.</value>
 	</entry>
 	<entry>
 		<key>POKE: The core’s durability could still be improved! I need more time!</key>
-		<value>POKE: The core’s durability could still be improved! I need more time!</value>
+		<value>POKE: Độ bền của cái lõi vẫn có thể được cải thiện! Em cần thêm thời gian!</value>
 	</entry>
 	<entry>
 		<key>CLARY: Ignore her, Yarrow. The core is finished. And if my sister tells you otherwise, then &lt;i&gt;she&lt;/i&gt; will be finished, as well.</key>
-		<value>CLARY: Ignore her, Yarrow. The core is finished. And if my sister tells you otherwise, then &lt;i&gt;she&lt;/i&gt; will be finished, as well.</value>
+		<value>CLARY: Kệ con bé đi, Yarrow. Cái lõi đã xong rồi. Và nếu em gái em vẫn bảo với anh là chưa, thì &lt;i&gt;con bé&lt;/i&gt; cũng sẽ xong với em luôn.</value>
 	</entry>
 	<entry>
 		<key>YARROW: My gratitude for the latest shipment, Oeno! This ore should be the last we’ll need for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>YARROW: My gratitude for the latest shipment, Oeno! This ore should be the last we’ll need for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</value>
+		<value>YARROW: Cảm ơn vì đợt vận chuyển vừa rồi, Oeno! Lô quặng này sẽ là lượng quặng cuối cùng ta cần cho &lt;color=orange&gt;Dự Án Ash Twin&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Once we’ve finished the shell that seals off the central chamber, we’ll check to ensure there are no longer any physical entrances. Ramie and I will be checking the interior and then the exterior for cracks (our final safety check).</key>
-		<value>YARROW: Once we’ve finished the shell that seals off the central chamber, we’ll check to ensure there are no longer any physical entrances. Ramie and I will be checking the interior and then the exterior for cracks (our final safety check).</value>
+		<value>YARROW: Một khi hoàn thiện lớp vỏ bao kín buồng trung tâm, chúng ta sẽ kiểm tra để chắc chắn không còn tồn tại một vết hở nào. Ramie và tôi sẽ kiểm tra bên trong trước, rồi tới bên ngoài (đây là lần kiểm thử an toàn cuối cùng).</value>
 	</entry>
 	<entry>
 		<key>OENO: This is exciting news! Can I offer an extra set of eyes for this final check (specifically, mine)? If my work here is complete, I’d be delighted to help.</key>
-		<value>OENO: This is exciting news! Can I offer an extra set of eyes for this final check (specifically, mine)? If my work here is complete, I’d be delighted to help.</value>
+		<value>OENO: Thật là một tin tốt! Liệu tôi có thể đóng góp cho quá trình kiểm thử (cụ thể hơn, là bằng mắt của tôi) được không? Một khi công việc ở đây hoàn tất, tôi rất sẵn lòng giúp đỡ.</value>
 	</entry>
 	<entry>
 		<key>YARROW: We’d be grateful if you would! The more eyes, the better, as the smallest flaw or opening in the shell that protects the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; could lead to disaster.</key>
-		<value>YARROW: We’d be grateful if you would! The more eyes, the better, as the smallest flaw or opening in the shell that protects the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; could lead to disaster.</value>
+		<value>YARROW: Chúng tôi sẽ rất biết ơn nếu được anh giúp đỡ! Chúng tôi cần càng nhiều người giám sát càng tốt, vì chỉ cần một sai sót nhỏ nhất hay một vết hở trên lớp vỏ bảo vệ &lt;color=orange&gt;Dự Án Ash Twin&lt;/color&gt; cũng sẽ dẫn tới thảm họa.</value>
 	</entry>
 	<entry>
 		<key>OENO: I’m still amazed by how much ore the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires!</key>
-		<value>OENO: I’m still amazed by how much ore the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires!</value>
+		<value>OENO: Tôi vẫn thấy kinh ngạc về lượng quặng mà &lt;color=orange&gt;Dự Án Ash Twin&lt;/color&gt; yêu cầu đấy!</value>
 	</entry>
 	<entry>
 		<key>CYCAD: Isn’t this the ore for the remaining towers being built on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;? The completed towers I’ve seen are quite large!</key>
-		<value>CYCAD: Isn’t this the ore for the remaining towers being built on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;? The completed towers I’ve seen are quite large!</value>
+		<value>CYCAD: Chẳng phải số quặng này là dành cho việc xây dựng các tháp dịch chuyển còn lại trên &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; ạ? Em thấy mấy tòa tháp đã hoàn thiện cũng đồ sộ lắm!</value>
 	</entry>
 	<entry>
 		<key>OENO: No, the material for those towers is all being taken from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber inside &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;’s core.</key>
-		<value>OENO: No, the material for those towers is all being taken from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber inside &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;’s core.</value>
+		<value>OENO: Không phải, nguyên vật liệu để xây dựng những tòa tháp ấy đều được khai thác trực tiếp từ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. Còn loại quặng mà chúng ta đang khai thác ở đây được dùng để chế tạo một lớp vỏ bảo vệ cực dày, thứ sẽ bao kín căn buồng bên trong lõi của &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>COLEUS: I’m relieved by our clan’s decision to use &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!</key>
-		<value>COLEUS: I’m relieved by our clan’s decision to use &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!</value>
+		<value>COLEUS: Tôi cũng an tâm khi bộ tộc chúng ta quyết định chỉ sử dụng quặng khai thác tại &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt; để xây dựng duy nhất lớp vỏ bảo vệ. Nếu, một lúc nào đó, sự sống trên hành tinh này tiến hóa và phát triển được luyện kim, tôi tin rằng chúng ta đã không hủy hoại tiềm năng của họ!</value>
 	</entry>
 	<entry>
 		<key>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</key>
-		<value>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</value>
+		<value>CYCAD: Mà nếu họ định bao kín mọi lối ra vào, em mong rằng họ đã suy tính cẩn thận từ cốt tới &lt;i&gt;lõi&lt;/i&gt;!</value>
 	</entry>
 	<entry>
 		<key>OENO: I thought you had forbidden your apprentice from making puns, Coleus.</key>
-		<value>OENO: I thought you had forbidden your apprentice from making puns, Coleus.</value>
+		<value>OENO: Tôi tưởng anh đã cấm học trò của mình không được chơi chữ nữa rồi cơ mà, Coleus.</value>
 	</entry>
 	<entry>
 		<key>COLEUS: How else would he improve?</key>
-		<value>COLEUS: How else would he improve?</value>
+		<value>COLEUS: Không cấm thì bao giờ nhóc ấy khá hơn được?</value>
 	</entry>
 	<entry>
 		<key>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: All towers online.</key>
-		<value>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: All towers online.</value>
+		<value>Trạng thái mạng dịch chuyển &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: Tất cả các tháp đều đang hoạt động.</value>
 	</entry>
 	<entry>
 		<key>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: &lt;color=orange&gt;Sun tower&lt;/color&gt; offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</key>
-		<value>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: &lt;color=orange&gt;Sun tower&lt;/color&gt; offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</value>
+		<value>Trạng thái mạng dịch chuyển &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: &lt;color=orange&gt;Tháp mặt trời&lt;/color&gt; đã dừng hoạt động cách đây &lt;MinutesSinceRedGiant&gt; phút &lt;SecondsSinceRedGiant&gt; giây.\\nTất cả các tháp còn lại đều vẫn hoạt động bình thường.</value>
 	</entry>
 	<entry>
 		<key>Sun tower offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</key>
-		<value>Sun tower offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</value>
+		<value>Tháp mặt trời đã dừng hoạt động cách đây &lt;MinutesSinceRedGiant&gt; phút &lt;SecondsSinceRedGiant&gt; giây.\\nTất cả các tháp còn lại đều vẫn hoạt động bình thường.</value>
 	</entry>
 	<entry>
 		<key>POKE: Welcome to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;! If you fell through the black hole by accident (don't worry, you aren’t the first), this warp tower can return you to &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>POKE: Welcome to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;! If you fell through the black hole by accident (don't worry, you aren’t the first), this warp tower can return you to &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</value>
+		<value>POKE: Chào mừng tới &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt;! Nếu bạn vô tình rơi xuống hố đen (đừng ngại, bạn không phải người đầu tiên đâu), tháp dịch chuyển này có thể giúp bạn quay lại &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>POKE: Every warp tower is tuned to a specific astral body. A tower's warp can only be used during the brief window when the tower is aligned with its corresponding astral body (in this case, &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;).</key>
-		<value>POKE: Every warp tower is tuned to a specific astral body. A tower's warp can only be used during the brief window when the tower is aligned with its corresponding astral body (in this case, &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;).</value>
+		<value>POKE: Mỗi tháp dịch chuyển được cài đặt tương ứng với một thiên thể nhất định. Bệ dịch chuyển sẽ chỉ kích hoạt trong khoảng thời gian ngắn khi tòa tháp ngắm thẳng tới thiên thể đó (trong trường hợp này, là &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;).</value>
 	</entry>
 	<entry>
 		<key>You must be standing on the warp platform on the floor during this alignment to be warped.</key>
-		<value>You must be standing on the warp platform on the floor during this alignment to be warped.</value>
+		<value>Bạn phải đứng trên bệ dịch chuyển khi tháp đang ngắm thẳng để được dịch chuyển tới đích.</value>
 	</entry>
 	<entry>
 		<key>POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead.</key>
-		<value>POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead.</value>
+		<value>POKE: Nếu nhìn lên trên khi trạm đang xoay, bạn sẽ thấy khoảng thời gian ngắm thẳng diễn ra khi thiên thể tương ứng nằm ngay phía trên đỉnh đầu.</value>
 	</entry>
 	<entry>
 		<key>Gabbro</key>
