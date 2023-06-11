@@ -74,7 +74,7 @@
 	</entry>
 	<entry>
 		<key>POKE: I would very much like to craft such a powerful core! More relevantly, I believe the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; crew and I could recreate the basic design.</key>
-		<value>POKE: I would very much like to craft such a powerful core! More relevantly, I believe the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; crew and I could recreate the basic design.</value>
+		<value>POKE: Tôi rất mong muốn được chế tạo một chiếc lõi mạnh mẽ tới vậy! Liên quan hơn nữa, tôi tin rằng các thành viên của &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt; có thể tái tạo được thiết kế cơ bản.</value>
 	</entry>
 	<entry>
 		<key>
@@ -161,7 +161,7 @@
 			SOLANUM: As this early universe expanded, it also cooled down. Once it had cooled down enough, particles were able to group together to form things like galaxies, stars, and planets!
 		</key>
 		<value>
-			SOLANUM: Khi vũ trụ trẻ này nở rộng, nó cũng dần nguội đi. Khi đã đủ nguội rồi, các phân tử có thể kết hợp lại với nhau để tạo nên các thiên hà, những vì sao, và cả các hành tinh!
+			SOLANUM: Khi vũ trụ trẻ này nở rộng, nó cũng dần nguội đi. Một khi đã đủ nguội, các phân tử có thể kết hợp lại với nhau để tạo nên các thiên hà, những vì sao, và cả các hành tinh!
 		</value>
 	</entry>
 	<entry>
@@ -193,7 +193,7 @@
 			LAMI: Explanation of Festivals
 		</key>
 		<value>
-			LAMI: Explanation of Festivals
+			LAMI: Giải Thích Về Lễ Hội
 		</value>
 	</entry>
 	<entry>
@@ -201,7 +201,7 @@
 			LAMI: All the Nomai clans from all over the universe meet in one place to share what they’ve learned in science and art. It’s called the festival!
 		</key>
 		<value>
-			LAMI: All the Nomai clans from all over the universe meet in one place to share what they’ve learned in science and art. It’s called the festival!
+			LAMI: Tất cả bộ tộc Nomai từ khắp nơi trên vũ trụ tề tựu về một địa điểm để chia sẻ cho nhau những phát kiến của họ trong khoa học và nghệ thuật. Sự kiện đó gọi là Lễ Hội!
 		</value>
 	</entry>
 	<entry>
@@ -209,7 +209,7 @@
 			FILIX: Don’t forget, festivals happen every ten years!
 		</key>
 		<value>
-			FILIX: Don’t forget, festivals happen every ten years!
+			FILIX: Đừng quên rằng, lễ hội cứ mười năm lại diễn ra một lần!
 		</value>
 	</entry>
 	<entry>
@@ -217,7 +217,7 @@
 			LAMI: We can’t go because we’re stuck here. But Filix says we used to go, too.
 		</key>
 		<value>
-			LAMI: We can’t go because we’re stuck here. But Filix says we used to go, too.
+			LAMI: Nhưng chúng ta lại chẳng thể tham dự vì bị kẹt lại ở đây. Cô Filix kể rằng bộ tộc chúng ta cũng đã từng tham gia lễ hội.
 		</value>
 	</entry>
 	<entry>
@@ -225,7 +225,7 @@
 			LAMI: At some festivals, one clan’s big discovery can mean all the Nomai get to advance, too. Like Annona’s warp core, which made it so everyone can warp long distances and explore more.
 		</key>
 		<value>
-			LAMI: At some festivals, one clan’s big discovery can mean all the Nomai get to advance, too. Like Annona’s warp core, which made it so everyone can warp long distances and explore more.
+			LAMI: Trong một vài lễ hội, phát kiến lớn của một bộ tộc nào đó đồng nghĩa với bước ngoặt phát triển của toàn bộ dân tộc Nomai. Tiêu biểu như lõi dịch chuyển của thầy Annona, thứ đã cho phép tất cả mọi người có thể dịch chuyển những khoảng cách cực lớn và khám phá vũ trụ nhiều hơn.
 		</value>
 	</entry>
 	<entry>
@@ -233,7 +233,7 @@
 			LAMI: Each clan has a festival envoy to show their most interesting work. (Our envoy was Thatch!)
 		</key>
 		<value>
-			LAMI: Each clan has a festival envoy to show their most interesting work. (Our envoy was Thatch!)
+			LAMI: Mỗi bộ tộc sẽ cử đi một đại sứ để trình bày phát kiến vĩ đại nhất của họ. (Đại sứ của chúng ta là bác Thatch!)
 		</value>
 	</entry>
 	<entry>
@@ -241,23 +241,23 @@
 			LAMI: A single festival could last a long, long time!
 		</key>
 		<value>
-			LAMI: A single festival could last a long, long time!
+			LAMI: Mỗi lễ hội có thể diễn ra trong một thời gian rất, rất dài!
 		</value>
 	</entry>
 	<entry>
 		<key>PLUME: Use caution! A black hole sleeps below. You must not slip.</key>
-		<value>PLUME: Use caution! A black hole sleeps below. You must not slip.</value>
+		<value>PLUME: Cẩn thận! Bên dưới có một lỗ đen không hoạt động. Mọi người không được trượt chân.</value>
 	</entry>
 	<entry>
 		<key>Emergency escape hatch</key>
-		<value>Emergency escape hatch</value>
+		<value>Cửa thoát hiểm khẩn cấp</value>
 	</entry>
 	<entry>
 		<key>
 			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
 		</key>
 		<value>
-			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
+			KHỞI ĐẦU NHẬT TRÌNH: &lt;color=orange&gt;Kén Thoát Hiểm 1&lt;/color&gt;. &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; đã hư hại nghiêm trọng. Kích hoạt tiến trình thoát hiểm. Chờ lệnh thoát khỏi &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -265,7 +265,7 @@
 			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;.
 		</key>
 		<value>
-			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;.
+			Đang phóng &lt;color=orange&gt;Kén Thoát Hiểm 3&lt;/color&gt;... Đang phóng &lt;color=orange&gt;Kén Thoát Hiểm 2&lt;/color&gt;... Đang phóng &lt;color=orange&gt;Kén Thoát Hiểm 1&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -273,7 +273,7 @@
 			ALERT. Collision imminent. Preparing for impact.
 		</key>
 		<value>
-			ALERT. Collision imminent. Preparing for impact.
+			CẢNH BÁO. Sắp xảy ra va chạm. Chuẩn bị đón chấn động.
 		</value>
 	</entry>
 	<entry>
@@ -282,120 +282,120 @@
 			Verdict: HOSPITABLE.
 		</key>
 		<value>
-			Scanning external environment... Scan complete. Minor structural instabilities detected. Pockets of breathable air detected. Adequate solar energy detected.
-			Verdict: HOSPITABLE.
+			Đang quét môi trường bên ngoài... Quét hoàn tất. Phát hiện bất ổn cấu trúc quy mô nhỏ. Phát hiện các vùng dưỡng khí rời rạc. Phát hiện năng lượng mặt trời đầy đủ.
+			Chẩn đoán: CÓ THỂ SINH SỐNG.
 		</value>
 	</entry>
 	<entry>
 		<key>CONOY: Cassava’s &lt;color=orange&gt;Construction Yard&lt;/color&gt; has been using the cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; to lift &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; parts into orbit, but one component was pushed down past the current that usually prevents anything from sinking.</key>
-		<value>CONOY: Cassava’s &lt;color=orange&gt;Construction Yard&lt;/color&gt; has been using the cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; to lift &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; parts into orbit, but one component was pushed down past the current that usually prevents anything from sinking.</value>
+		<value>CONOY: &lt;color=orange&gt;Khu Xây Dựng&lt;/color&gt; của Cassava đã tận dụng vòi rồng ở &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; để phóng các bộ phận của &lt;color=orange&gt;Đại Pháo Do Thám&lt;/color&gt; lên quỹ đạo, nhưng lại có một bộ phận bị nhấn chìm xuống dưới dòng hải lưu, vốn chặn không cho bất cứ thứ gì chìm qua nó.</value>
 	</entry>
 	<entry>
 		<key>CONOY: Spire and I are crafting a model to determine why this happened.</key>
-		<value>CONOY: Spire and I are crafting a model to determine why this happened.</value>
+		<value>CONOY: Spire và tôi đang chế tạo một mô hình để xác định nguyên nhân của chuyện này.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: An update: It’s now clear there are two different types of cyclone.</key>
-		<value>SPIRE: An update: It’s now clear there are two different types of cyclone.</value>
+		<value>SPIRE: Tin mới: Chúng tôi đã chứng minh được rằng có hai loại vòi rồng.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: Most cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; rotate clockwise. These are the cyclones Cassava typically uses to send components into orbit.</key>
-		<value>SPIRE: Most cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; rotate clockwise. These are the cyclones Cassava typically uses to send components into orbit.</value>
+		<value>SPIRE: Phần lớn các vòi rồng trên &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; xoay theo chiều kim đồng hồ. Đó là loại vòi rồng mà Cassava thường sử dụng để phóng các bộ phận lên quỹ đạo.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
-		<value>SPIRE: There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</value>
+		<value>SPIRE: Nhưng cũng tồn tại một loại vòi rồng hiếm hơn, xoay theo chiều ngược lại, và nhấn chìm mọi thứ xuống dưới dòng hải lưu.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: My gratitude, Spire. Conoy is showing me your handiwork, and I’m intrigued by this secondary type of cyclone. But was it really necessary to build a model to tell me that?</key>
-		<value>CASSAVA: My gratitude, Spire. Conoy is showing me your handiwork, and I’m intrigued by this secondary type of cyclone. But was it really necessary to build a model to tell me that?</value>
+		<value>CASSAVA: Cảm ơn, Spire. Conoy đang cho tôi xem chế tác của anh, và tôi cũng thấy loại vòi rồng thứ hai này thú vị đấy. Nhưng có cần thiết phải chế tạo hẳn một mô hình để nói với tôi điều này không?</value>
 	</entry>
 	<entry>
 		<key>SPIRE: The model will be useful as we continue monitoring &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;.</key>
-		<value>SPIRE: The model will be useful as we continue monitoring &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;.</value>
+		<value>SPIRE: Mô hình này sẽ có ích cho cả quá trình quan sát &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; của chúng ta.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: Also I very much wanted to make a model.</key>
-		<value>SPIRE: Also I very much wanted to make a model.</value>
+		<value>SPIRE: Và tôi cũng thích làm mô hình nữa.</value>
 	</entry>
 	<entry>
 		<key>ILEX: Look out, look out below!</key>
-		<value>ILEX: Look out, look out below!</value>
+		<value>ILEX: Coi chừng, coi chừng phía dưới!</value>
 	</entry>
 	<entry>
 		<key>ILEX: Look out for the gravity hole!</key>
-		<value>ILEX: Look out for the gravity hole!</value>
+		<value>ILEX: Cẩn thận cái hố hấp dẫn!</value>
 	</entry>
 	<entry>
 		<key>ILEX: For should you slip</key>
-		<value>ILEX: For should you slip</value>
+		<value>ILEX: Kẻo nhỡ bạn trượt chân</value>
 	</entry>
 	<entry>
 		<key>ILEX: And lose your grip,</key>
-		<value>ILEX: And lose your grip,</value>
+		<value>ILEX: Và trượt luôn cả tay,</value>
 	</entry>
 	<entry>
 		<key>ILEX: Then into space you’ll go!</key>
-		<value>ILEX: Then into space you’ll go!</value>
+		<value>ILEX: Bạn sẽ bay vèo tới không gian vô tận!</value>
 	</entry>
 	<entry>
 		<key>PLUME: Of note: Be sure not to wander far from here. Though this area is somewhat unstable, it’s safer than any we’ve found so far.</key>
-		<value>PLUME: Of note: Be sure not to wander far from here. Though this area is somewhat unstable, it’s safer than any we’ve found so far.</value>
+		<value>PLUME: Lưu ý: Đừng đi quá xa khỏi đây. Mặc dù khu vực này vẫn hơi bất ổn, nó vẫn an toàn hơn tất thảy những khu vực khác mà chúng ta tìm thấy.</value>
 	</entry>
 	<entry>
 		<key>PLUME: The temporary settlement is finished, but remember to be cautious of falling rocks and dust created by meteor impacts.</key>
-		<value>PLUME: The temporary settlement is finished, but remember to be cautious of falling rocks and dust created by meteor impacts.</value>
+		<value>PLUME: Khu tạm trú đã được hoàn thành, nhưng hãy nhớ phải cẩn thận đá lở và khói bụi rơi xuống bởi chấn động của của thiên thạch.</value>
 	</entry>
 	<entry>
 		<key>THATCH: I can’t understand. Why did the &lt;color=orange&gt;Vessel&lt;/color&gt; crash in that place?</key>
-		<value>THATCH: I can’t understand. Why did the &lt;color=orange&gt;Vessel&lt;/color&gt; crash in that place?</value>
+		<value>THATCH: Tôi không hiểu nổi. Tại sao &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; lại gặp sự cố ở nơi đó?</value>
 	</entry>
 	<entry>
 		<key>PLUME: Was the &lt;color=orange&gt;Vessel&lt;/color&gt; unwell in some way?</key>
-		<value>PLUME: Was the &lt;color=orange&gt;Vessel&lt;/color&gt; unwell in some way?</value>
+		<value>PLUME: Có phải do &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; đã gặp trục trặc ở đâu không?</value>
 	</entry>
 	<entry>
 		<key>FILIX: No, Annona and I checked before the warp, and the warp core and navigation systems were both well.</key>
-		<value>FILIX: No, Annona and I checked before the warp, and the warp core and navigation systems were both well.</value>
+		<value>FILIX: Không, Annona và tôi đã kiểm tra kỹ trước khi dịch chuyển rồi, và cả lõi dịch chuyển lẫn hệ thống định vị đều hoạt động ổn định.</value>
 	</entry>
 	<entry>
 		<key>FILIX: We warped to follow that curious signal from the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. Where we arrived was wrong; it wasn’t where we tried to go.</key>
-		<value>FILIX: We warped to follow that curious signal from the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. Where we arrived was wrong; it wasn’t where we tried to go.</value>
+		<value>FILIX: Chúng ta đã dịch chuyển để lần theo tín hiệu kỳ lạ gửi từ &lt;color=lightblue&gt;Con Mắt Vũ Trụ&lt;/color&gt;. Thế nhưng chúng ta lại tới sai địa điểm; rõ ràng đó không phải nơi chúng ta muốn tới.</value>
 	</entry>
 	<entry>
 		<key>THATCH: Suppose it wasn’t a problem with the &lt;color=orange&gt;Vessel&lt;/color&gt;, but with our destination.</key>
-		<value>THATCH: Suppose it wasn’t a problem with the &lt;color=orange&gt;Vessel&lt;/color&gt;, but with our destination.</value>
+		<value>THATCH: Có lẽ vấn đề không nằm ở &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;, mà nằm ở điểm đến của chúng ta.</value>
 	</entry>
 	<entry>
 		<key>FILIX: I’m afraid for our friends in &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;....</key>
-		<value>FILIX: I’m afraid for our friends in &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;....</value>
+		<value>FILIX: Tôi lo cho những người trong &lt;color=orange&gt;Kén Thoát Hiểm 3&lt;/color&gt; quá....</value>
 	</entry>
 	<entry>
 		<key>BELLS: If you’re here to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, you are almost prepared to set out on this deeply significant journey. Before you do, pause, and remember your history.</key>
-		<value>BELLS: If you’re here to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, you are almost prepared to set out on this deeply significant journey. Before you do, pause, and remember your history.</value>
+		<value>BELLS: Khi em tới đây để chuẩn bị cho chuyến đi tới &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; đầu tiên của mình, có nghĩa rằng em đã gần sẵn sàng để có thể bắt đầu hành trình mang ý nghĩa sâu đậm này. Trước khi tiếp tục, cô mong em hãy dừng lại, và tưởng nhớ về lịch sử của chúng ta.</value>
 	</entry>
 	<entry>
 		<key>BELLS: We make this journey not only for ourselves, but also to honor the members of our clan who came before us: those who, after the crash that brought them to this star system, became stranded on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; and on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, with no communication between these two groups of survivors.</key>
-		<value>BELLS: We make this journey not only for ourselves, but also to honor the members of our clan who came before us: those who, after the crash that brought them to this star system, became stranded on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; and on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, with no communication between these two groups of survivors.</value>
+		<value>BELLS: Chúng ta thực hiện hành trình này không chỉ vì bản thân mình, mà còn để bày tỏ sự tôn kính tới những thành viên của bộ tộc đã đi trước chúng ta: những người mà, sau vụ tai nạn đã đưa chúng ta tới hệ sao này, đã bị kẹt lại trên &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; và &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, mà chẳng có cách nào để liên lạc giữa hai bên.</value>
 	</entry>
 	<entry>
 		<key>BELLS: These Nomai looked upward from two different planets and saw the same wandering moon visiting their skies. It was this moon (the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;) that kept their curiosity alive during this long period of hardship.</key>
-		<value>BELLS: These Nomai looked upward from two different planets and saw the same wandering moon visiting their skies. It was this moon (the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;) that kept their curiosity alive during this long period of hardship.</value>
+		<value>BELLS: Những người Nomai ấy đã nhìn lên những hành tinh trên kia, và cùng thấy được một mặt trăng lảng vảng trên bầu trời. Chính mặt trăng ấy (&lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt;) là thứ đã giữ được ngọn lửa tò mò của họ sống sót vượt qua giai đoạn khó khăn này.</value>
 	</entry>
 	<entry>
 		<key>BELLS: After the two divided groups were able to reunite, it became our clan’s united goal to find and visit the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. This took time, and many Nomai who dreamed of seeing the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; died before we discovered how to make the journey.</key>
-		<value>BELLS: After the two divided groups were able to reunite, it became our clan’s united goal to find and visit the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. This took time, and many Nomai who dreamed of seeing the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; died before we discovered how to make the journey.</value>
+		<value>BELLS: Sau khi hai nhóm được đoàn tụ, việc tìm kiếm và ghé thăm &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; đã trở thành sứ mệnh chung của toàn bộ tộc. Để đạt được sứ mệnh ấy cần rất nhiều thời gian, và nhiều người Nomai đã phải mang giấc mơ được nhìn thấy &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; theo mình tới cõi vĩnh hằng, trước khi chúng ta kịp khám phá ra cách để tới đó.</value>
 	</entry>
 	<entry>
 		<key>BELLS: When you reach the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, recall these Nomai, and carry their curiosity onward with you.</key>
-		<value>BELLS: When you reach the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, recall these Nomai, and carry their curiosity onward with you.</value>
+		<value>BELLS: Khi em tới được &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt;, hãy tưởng nhớ về những người Nomai đó, và mang theo sự tò mò của họ trên suốt cuộc hành trình của mình.</value>
 	</entry>
 	<entry>
 		<key>
 			PLUME: The &lt;i&gt;trees&lt;/i&gt; are moving! The trees in this grove wander about freely (the entire plant, roots and all)! This is &lt;i&gt;not normal&lt;/i&gt;, even for this alien planet. And I never see them move! Is that even possible?!
 		</key>
 		<value>
-			PLUME: The &lt;i&gt;trees&lt;/i&gt; are moving! The trees in this grove wander about freely (the entire plant, roots and all)! This is &lt;i&gt;not normal&lt;/i&gt;, even for this alien planet. And I never see them move! Is that even possible?!
+			PLUME: &lt;i&gt;Mấy cái cây&lt;/i&gt; đang chuyển động! Cây ở nơi này có thể thay đổi vị trí một cách vô tổ chức (di chuyển cả cái cây luôn, từ rễ đến lá)! Điều này &lt;i&gt;không bình thường chút nào&lt;/i&gt;, kể cả đối với hành tinh xa lạ này. Và tôi chưa nhìn thấy được cách mà chúng chuyển động! Sao lại có thể như thế được?!
 		</value>
 	</entry>
 	<entry>
@@ -403,7 +403,7 @@
 			PLUME: If anyone else witnesses this disturbing behavior, I implore you, record your observations here. Either these trees are aberrant, or my brain must be!
 		</key>
 		<value>
-			PLUME: If anyone else witnesses this disturbing behavior, I implore you, record your observations here. Either these trees are aberrant, or my brain must be!
+			PLUME: Nếu ai khác chứng kiến được hiện tượng đáng quan ngại này, tôi cầu xin người đó, hãy ghi lại quan sát của mình ở đây. Nếu chẳng phải mấy cái cây này không bình thường, thì chính là do đầu óc tôi bất thường!
 		</value>
 	</entry>
 	<entry>
@@ -411,7 +411,7 @@
 			THATCH: Plume is right; the trees &lt;i&gt;do&lt;/i&gt; move! I confess I didn’t notice until I read his notes.
 		</key>
 		<value>
-			THATCH: Plume is right; the trees &lt;i&gt;do&lt;/i&gt; move! I confess I didn’t notice until I read his notes.
+			THATCH: Plume nói đúng; những cái cây &lt;i&gt;có&lt;/i&gt; di chuyển thật! Thú thực tôi cũng chẳng để ý cho đến khi đọc những gì anh ấy viết.
 		</value>
 	</entry>
 	<entry>
@@ -419,7 +419,7 @@
 			THATCH: Alarmingly, it isn’t only the trees: There is other matter in this area (such as that unusual shard of rock) moving in this same eerie way.
 		</key>
 		<value>
-			THATCH: Alarmingly, it isn’t only the trees: There is other matter in this area (such as that unusual shard of rock) moving in this same eerie way.
+			THATCH: Đáng báo động hơn, không chỉ những cái cây: Có những vật chất khác trong khu vực này (mảnh đá kỳ dị đằng kia chẳng hạn) cũng đang chuyển động theo cái cách ghê rợn như vậy.
 		</value>
 	</entry>
 	<entry>
@@ -427,7 +427,7 @@
 			FILIX: That rock is unusual for another reason, too, Thatch: It possesses color and texture I’ve never seen elsewhere on this planet!
 		</key>
 		<value>
-			FILIX: That rock is unusual for another reason, too, Thatch: It possesses color and texture I’ve never seen elsewhere on this planet!
+			FILIX: Hòn đá ấy cũng kỳ dị luôn, Thatch! Nó mang thứ màu sắc và kết cấu tôi chưa từng nhìn thấy ở nơi nào khác trên hành tinh này!
 		</value>
 	</entry>
 	<entry>
@@ -435,7 +435,7 @@
 			FILIX: Hypothesis: This rock shard’s presence is significant. We should study it! (Could it be what is causing other nearby objects to also move about this area?)
 		</key>
 		<value>
-			FILIX: Hypothesis: This rock shard’s presence is significant. We should study it! (Could it be what is causing other nearby objects to also move about this area?)
+			FILIX: Giả thiết: Sự hiện diện của mảnh đá này có sức ảnh hưởng lớn. Chúng ta cần nghiên cứu nó kỹ hơn! (Lẽ nào chính nó là thứ khiến cho những sự vật khác di chuyển xung quanh khu vực này?)
 		</value>
 	</entry>
 	<entry>
@@ -443,7 +443,7 @@
 			THATCH: Plume, Filix, and I have determined this atypical shard of rock is the reason objects in this grove are behaving in a quantum manner.
 		</key>
 		<value>
-			THATCH: Plume, Filix, and I have determined this atypical shard of rock is the reason objects in this grove are behaving in a quantum manner.
+			THATCH: Plume, Filix, và tôi đã xác định được rằng mảnh đá kỳ lạ này chính là lí do những vật thể khác trong khu vực này lại có hành vi mang tính chất lượng tử.
 		</value>
 	</entry>
 	<entry>
@@ -451,7 +451,7 @@
 			THATCH: The only other object we’ve observed displaying this quantum behavior is the &lt;color=lightblue&gt;wandering moon&lt;/color&gt;. I imagine the moon’s behavior and this grove’s are related.
 		</key>
 		<value>
-			THATCH: The only other object we’ve observed displaying this quantum behavior is the &lt;color=lightblue&gt;wandering moon&lt;/color&gt;. I imagine the moon’s behavior and this grove’s are related.
+			THATCH: Vật thể khác mang tính chất lượng tử giống như vậy, theo chúng tôi quan sát được, duy nhất chỉ có &lt;color=lightblue&gt;mặt trăng lảng vảng&lt;/color&gt; trên bầu trời kia. Tôi nghĩ tính chất của mặt trăng và khu vực này có liên quan tới nhau.
 		</value>
 	</entry>
 	<entry>
@@ -459,7 +459,7 @@
 			PLUME: In her note from earlier, Filix mentions this strange type of rock isn’t found elsewhere on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. What if it isn’t originally from this planet?
 		</key>
 		<value>
-			PLUME: In her note from earlier, Filix mentions this strange type of rock isn’t found elsewhere on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. What if it isn’t originally from this planet?
+			PLUME: Theo ghi chép trước đó của Filix, cô ấy nói rằng loại đá kỳ lạ này chẳng thể tìm thấy ở nơi nào khác trên &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. Nếu như nguồn gốc của nó chẳng phải từ hành tinh thì sao?
 		</value>
 	</entry>
 	<entry>
@@ -467,7 +467,7 @@
 			PLUME: Hypothesis: This “quantum shard” is from the &lt;color=lightblue&gt;wandering (quantum) moon&lt;/color&gt;. Perhaps it is even a small piece of the moon itself.
 		</key>
 		<value>
-			PLUME: Hypothesis: This “quantum shard” is from the &lt;color=lightblue&gt;wandering (quantum) moon&lt;/color&gt;. Perhaps it is even a small piece of the moon itself.
+			PLUME: Giả thiết: “Mảnh đá lượng tử” này có nguồn gốc từ &lt;color=lightblue&gt;mặt trăng (lượng tử) lảng vảng&lt;/color&gt;. Có khi nó đúng là một mảnh nhỏ của mặt trăng ấy luôn.
 		</value>
 	</entry>
 	<entry>
@@ -475,7 +475,7 @@
 			FILIX: Of note: A unique signal is coming from this shard! Curiously, our friend the &lt;color=lightblue&gt;wandering moon&lt;/color&gt; sounds the same.
 		</key>
 		<value>
-			FILIX: Of note: A unique signal is coming from this shard! Curiously, our friend the &lt;color=lightblue&gt;wandering moon&lt;/color&gt; sounds the same.
+			FILIX: Đáng lưu ý: Một tín hiệu đặc biệt phát ra từ mảnh đá này! Điều khiến tôi tò mò hơn nữa, là anh bạn &lt;color=lightblue&gt;mặt trăng lảng vảng&lt;/color&gt; của chúng ta cũng phát ra tín hiệu tương tự.
 		</value>
 	</entry>
 	<entry>
@@ -483,7 +483,7 @@
 			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
 		</key>
 		<value>
-			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
+			FILIX: Tôi cũng nghe được tín hiệu tương tự phát ra từ &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, và cả &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Có lẽ còn nhiều mảnh đá khác giống thế này!
 		</value>
 	</entry>
 	<entry>
@@ -491,7 +491,7 @@
 			BELLS: Welcome, Solanum! Your arrival here means you’ve completed your preparations on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; and are ready to depart for the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.
 		</key>
 		<value>
-			BELLS: Welcome, Solanum! Your arrival here means you’ve completed your preparations on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; and are ready to depart for the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.
+			BELLS: Chúc mừng, Solanum! Em tới nơi đây nghĩa là em đã hoàn tất việc chuẩn bị của mình trên &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; và đã sẵn sàng để lên đường tới &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -499,7 +499,7 @@
 			BELLS: On your pilgrimage, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; will carry you, just as it carried me and many in our clan before me, to the moon’s sixth and most secret location.
 		</key>
 		<value>
-			BELLS: On your pilgrimage, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; will carry you, just as it carried me and many in our clan before me, to the moon’s sixth and most secret location.
+			BELLS: Trên hành trình của mình, &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; sẽ đưa em, cũng như nó đã từng đưa cô và nhiều người khác của bộ tộc, tới vị trí bí mật nhất - vị trí thứ sáu của nó.
 		</value>
 	</entry>
 	<entry>
@@ -507,7 +507,7 @@
 			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
 		</key>
 		<value>
-			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
+			BELLS: Em sẽ được trợ giúp bởi điện thờ mà bộ tộc chúng ta đã xây dựng trên &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt;. Nhưng hãy nhớ kỹ quy luật cuối cùng này: Để có thể khám phá được vị trí thứ sáu, điện thờ phải nằm trên cực bắc của mặt trăng.
 		</value>
 	</entry>
 	<entry>
@@ -515,23 +515,23 @@
 			BELLS: Be curious on your journey!
 		</key>
 		<value>
-			BELLS: Be curious on your journey!
+			BELLS: Hãy tò mò trên suốt hành trình của mình!
 		</value>
 	</entry>
 	<entry>
 		<key>BELLS: Be welcomed in this place! Above you stands the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.</key>
-		<value>BELLS: Be welcomed in this place! Above you stands the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.</value>
+		<value>BELLS: Chào mừng em tới đây! Phía trên em chính là &lt;color=orange&gt;Tháp Kiến Thức Lượng Tử&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>BELLS: If you are making your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, ascend these stairs, and obtain the last of the knowledge you need for your journey.</key>
-		<value>BELLS: If you are making your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, ascend these stairs, and obtain the last of the knowledge you need for your journey.</value>
+		<value>BELLS: Nếu em đang chuẩn bị cho chuyến hành trình tới &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; lần đầu tiên trong đời mình, hãy bước lên những bậc thang kia, và nắm giữ tri thức cuối cùng em cần cho chuyến đi của mình.</value>
 	</entry>
 	<entry>
 		<key>
 			BELLS: Beneath your feet lies the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.
 		</key>
 		<value>
-			BELLS: Beneath your feet lies the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.
+			BELLS: Bên dưới chân em chính là &lt;color=orange&gt;Tháp Kiến Thức Lượng Tử&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -539,23 +539,23 @@
 			BELLS: If you are preparing to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, descend the steps to the entrance below. The knowledge held within will help you on your journey.
 		</key>
 		<value>
-			BELLS: If you are preparing to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, descend the steps to the entrance below. The knowledge held within will help you on your journey.
+			BELLS: Nếu em đang chuẩn bị cho chuyến hành trình tới &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; lần đầu tiên trong đời mình, hãy theo những bậc tới cửa vào bên dưới. Tri thức nằm trong đó sẽ giúp em trên chuyến đi của mình.
 		</value>
 	</entry>
 	<entry>
 		<key>Activate the &lt;color=orange&gt;gravity cannon&lt;/color&gt;</key>
-		<value>Activate the &lt;color=orange&gt;gravity cannon&lt;/color&gt;</value>
+		<value>Kích hoạt &lt;color=orange&gt;pháo trọng lực&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>Call the &lt;color=orange&gt;shuttle&lt;/color&gt; home</key>
-		<value>Call the &lt;color=orange&gt;shuttle&lt;/color&gt; home</value>
+		<value>Triệu hồi &lt;color=orange&gt;phi thuyền&lt;/color&gt; về bệ pháo</value>
 	</entry>
 	<entry>
 		<key>
 			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
 		</key>
 		<value>
-			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
+			LAEVI: Chúng ta hẹn nhau ở &lt;color=orange&gt;Động Hóa Thạch Cá&lt;/color&gt; để chơi trò chơi nhé! Ai lớn quá không chui lọt được cái khe ở &lt;color=orange&gt;Sảnh Quan Sát Cá Cần Câu&lt;/color&gt; thì:
 		</value>
 	</entry>
 	<entry>
@@ -563,7 +563,7 @@
 			LAEVI: You’ll have to go the long way, but it isn’t far. Go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, and then up and into the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt;.
 		</key>
 		<value>
-			LAEVI: You’ll have to go the long way, but it isn’t far. Go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, and then up and into the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt;.
+			LAEVI: Người đó sẽ phải đi đường khác, nhưng cũng không xa lắm đâu. Đi tới &lt;color=orange&gt;Hang Đá Bậc Thang&lt;/color&gt;, và đi lên trên là sẽ tới &lt;color=orange&gt;Động Hóa Thạch Cá&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -571,7 +571,7 @@
 			TAGET: I tried to get to the fossil fish through &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, but I couldn’t find the entrance. Where is it?
 		</key>
 		<value>
-			TAGET: I tried to get to the fossil fish through &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, but I couldn’t find the entrance. Where is it?
+			TAGET: Tớ thử đi qua &lt;color=orange&gt;Hang Đá Bậc Thang&lt;/color&gt; để tới hóa thạch cá rồi, nhưng chẳng tìm thấy lối vào đâu cả. Nó nằm ở đâu nhỉ?
 		</value>
 	</entry>
 	<entry>
@@ -579,43 +579,43 @@
 			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
 		</key>
 		<value>
-			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
+			ILEX: Nhớ phải cho hóa thạch cá ăn trước! Nếu nhóc tới &lt;color=orange&gt;Sảnh Quan Sát Cá Cần Câu&lt;/color&gt; và quẳng cho nó một ngọn đèn vào miệng, nó sẽ chỉ cho đường cho nhóc.
 		</value>
 	</entry>
 	<entry>
 		<key>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</key>
-		<value>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</value>
+		<value>LAMI: Taget không chui được qua cái khe ở &lt;color=orange&gt;Sảnh Quan Sát Cá Cần Câu&lt;/color&gt; nữa vì anh ấy lớn rồi! Giờ anh ấy còn cao hơn cả chị Laevi.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Who cares? Ilex is still tallest.</key>
-		<value>LAEVI: Who cares? Ilex is still tallest.</value>
+		<value>LAEVI: Ai thèm quan tâm? Anh Ilex vẫn là người cao nhất.</value>
 	</entry>
 	<entry>
 		<key>TAGET: Are we playing the fossil fish game tonight?</key>
-		<value>TAGET: Are we playing the fossil fish game tonight?</value>
+		<value>TAGET: Thế tối nay chúng mình có chơi trò cá hóa thạch không nhỉ?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</key>
-		<value>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</value>
+		<value>SOLANUM: Em cho con cá hóa thạch ăn một cái lồng đèn mới rồi nhé. Giờ anh chị đi qua &lt;color=orange&gt;Hang Đá Bậc Thang&lt;/color&gt;, lối vào &lt;color=orange&gt;Động Hóa Thạch Cá&lt;/color&gt; sẽ dễ thấy hơn nhiều.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</key>
-		<value>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</value>
+		<value>LAEVI: Cảm ơn em nhé, Solanum! May là em còn đủ nhỏ để trèo qua khe ở &lt;color=orange&gt;Sảnh Quan Sát Cá Cần Câu&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>LAMI: I’m still small enough!</key>
-		<value>LAMI: I’m still small enough!</value>
+		<value>LAMI: Em cũng còn đủ nhỏ nhé!</value>
 	</entry>
 	<entry>
 		<key>LAEVI: You won’t be for long. Mom and Dad are tall, so you and I will be tall, too.</key>
-		<value>LAEVI: You won’t be for long. Mom and Dad are tall, so you and I will be tall, too.</value>
+		<value>LAEVI: Cũng chẳng còn lâu nữa đâu. Bố và Mẹ đều cao, nên hai chị em mình cũng sẽ cao lớn như họ thôi.</value>
 	</entry>
 	<entry>
 		<key>
 			MELORAE: The heat from this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt; is more bearable below the surface.
 		</key>
 		<value>
-			MELORAE: The heat from this star system’s sun is more bearable below the surface.
+			MELORAE: Sức nóng từ mặt trời dễ chịu hơn nhiều khi ta ở phía dưới bề mặt hành tinh này.
 		</value>
 	</entry>
 	<entry>
@@ -623,7 +623,7 @@
 			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
 		</key>
 		<value>
-			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
+			MELORAE: Khi &lt;color=orange&gt;kén thoát hiểm&lt;/color&gt; của chúng ta đâm xuyên qua bề mặt của hành tinh này, nó chui vào một hệ thống hang động với nền nhiệt dịu mát hơn nhiều. Tôi &lt;i&gt;muốn&lt;/i&gt; đề xuất chúng ta tìm kiếm một khu vực dưới này để xây dựng một khu lưu trú lâu dài, Annona, nhưng những lối đi này hệt như một mê cung vậy!
 		</value>
 	</entry>
 	<entry>
@@ -631,7 +631,7 @@
 			ANNONA: Even with this danger, they are still our best chance for survival. We’ll form teams and descend into the caves to look for a shelter site. We can mark our findings on the walls to avoid becoming irreversibly lost.
 		</key>
 		<value>
-			ANNONA: Even with this danger, they are still our best chance for survival. We’ll form teams and descend into the caves to look for a shelter site. We can mark our findings on the walls to avoid becoming irreversibly lost.
+			ANNONA: Nguy hiểm là vậy, nhưng đây vẫn là cơ hội sinh tồn tốt nhất của chúng ta. Ta sẽ chia thành các đội để thám hiểm hang động và tìm kiếm khu vực xây dựng. Hãy đánh dấu lên tường để tránh bị lạc và không tìm ra lối thoát.
 		</value>
 	</entry>
 	<entry>
@@ -639,7 +639,7 @@
 			ANNONA: Be cautious, everyone.
 		</key>
 		<value>
-			ANNONA: Be cautious, everyone.
+			ANNONA: Cảnh giác nhé, mọi người.
 		</value>
 	</entry>
 	<entry>
@@ -647,7 +647,7 @@
 			RHUS: And be aware of the sand as you search. It appears to be rising gradually.
 		</key>
 		<value>
-			RHUS: And be aware of the sand as you search. It appears to be rising gradually.
+			RHUS: Và cũng cẩn thận với đống cát trong lúc tìm kiếm đấy. Có vẻ như cát đang dần dâng lên.
 		</value>
 	</entry>
 	<entry>
@@ -655,7 +655,7 @@
 			COLEUS: The path to the shelter site is somewhat convoluted, so follow the instructions ahead closely!
 		</key>
 		<value>
-			COLEUS: The path to the shelter site is somewhat convoluted, so follow the instructions ahead closely!
+			COLEUS: Con đường dẫn tới khu lưu trú hơi nhập nhằng xíu, nên hãy theo sát chỉ dẫn sau nhé!
 		</value>
 	</entry>
 	<entry>
@@ -663,7 +663,7 @@
 			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
 		</key>
 		<value>
-			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
+			COLEUS: Để tới được khu lưu trú, đi bộ thẳng cho tới lúc nhìn thấy một dòng cát chảy xuống hố, rồi rẽ trái. Đi tới căn phòng toàn cột nhũ đá thì hãy trèo qua lối nằm ở phía trên đầu.
 		</value>
 	</entry>
 	<entry>
@@ -671,7 +671,7 @@
 			COLEUS: The sand here is rising, so you must be cautious but swift.
 		</key>
 		<value>
-			COLEUS: The sand here is rising, so you must be cautious but swift.
+			COLEUS: Lớp cát ở đây đang dâng lên, nên cẩn thận và khẩn trương lên.
 		</value>
 	</entry>
 	<entry>
@@ -679,7 +679,7 @@
 			COLEUS: Be cautious crossing the chasm ahead. The bridge Melorae and I crafted will do its job, but it isn’t strong.
 		</key>
 		<value>
-			COLEUS: Be cautious crossing the chasm ahead. The bridge Melorae and I crafted will do its job, but it isn’t strong.
+			COLEUS: Hãy cẩn trọng khi đi qua hang động phía trước. Cây cầu do Melorae và tôi xây chỉ dùng tạm được thôi, chứ cũng không chắc chắn lắm.
 		</value>
 	</entry>
 	<entry>
@@ -687,7 +687,7 @@
 			COLEUS: Once on the far side, look for the tunnel hidden behind the falling sand. Follow it, and you’ll reach the shelter site.
 		</key>
 		<value>
-			COLEUS: Once on the far side, look for the tunnel hidden behind the falling sand. Follow it, and you’ll reach the shelter site.
+			COLEUS: Khi đã qua được phía bên kia, hãy tìm một đường hầm ẩn phía sau dòng cát chảy. Men theo đường hầm ấy sẽ tới được khu lưu trú.
 		</value>
 	</entry>
 	<entry>
@@ -695,7 +695,7 @@
 			COLEUS: You’re doing well! There’s only a little farther left to go now until you reach the shelter site. You can rest there. Hurry, before the sand comes!
 		</key>
 		<value>
-			COLEUS: You’re doing well! There’s only a little farther left to go now until you reach the shelter site. You can rest there. Hurry, before the sand comes!
+			COLEUS: Bạn đang đi đúng đường rồi! Chỉ còn một đoạn nữa về phía bên trái là bạn tới được khu lưu trú rồi. Bạn có thể nghỉ ngơi một chút ở đây. Nhưng khẩn trương lên, trước khi cát dâng tới!
 		</value>
 	</entry>
 	<entry>
@@ -703,7 +703,7 @@
 			MELORAE: Do not follow this tunnel to its end! (Coleus and I will examine the horror that lies at its terminus later, provided we live through this.)
 		</key>
 		<value>
-			MELORAE: Do not follow this tunnel to its end! (Coleus and I will examine the horror that lies at its terminus later, provided we live through this.)
+			MELORAE: Đừng đi tới cuối đường hầm này! (Coleus và tôi sẽ điều tra về thứ kinh dị nằm ở đó sau, nếu chúng tôi sống sót qua vụ này.)
 		</value>
 	</entry>
 	<entry>
@@ -711,7 +711,7 @@
 			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
 		</key>
 		<value>
-			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
+			ANNONA: Lưu ý: Con đường này dẫn tới một khu vực có dưỡng khí. Hãy nạp lại bình dưỡng khí của mình ở đó (vì ta chưa biết những đường hầm này còn kéo dài tới đâu), nhưng cũng đừng nán lại quá lâu, vì khu vực ấy chịu ảnh hưởng trực tiếp từ nhiệt độ của &lt;color=lightblue&gt;mặt trời&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -719,7 +719,7 @@
 			ANNONA: Refill your air supply tank and return quickly.
 		</key>
 		<value>
-			ANNONA: Refill your air supply tank and return quickly.
+			ANNONA: Hãy nạp lại bình dưỡng khí và mau chóng quay lại.
 		</value>
 	</entry>
 	<entry>
@@ -727,7 +727,7 @@
 			RHUS: Keep moving, friends: There is nothing of interest at the end of this passage but rocks.
 		</key>
 		<value>
-			RHUS: Keep moving, friends: There is nothing of interest at the end of this passage but rocks.
+			RHUS: Xin hãy đi tiếp: Vì ở cuối con đường này chẳng có gì thú vị ngoài mấy hòn đá.
 		</value>
 	</entry>
 	<entry>
@@ -735,7 +735,7 @@
 			RHUS: And while these rocks are interesting, they can wait until a less urgent time.
 		</key>
 		<value>
-			RHUS: And while these rocks are interesting, they can wait until a less urgent time.
+			RHUS: Và dù mấy hòn đá ấy có thú vị thật, chúng vẫn nên chờ tới lúc nào đó bớt gấp gáp hơn.
 		</value>
 	</entry>
 	<entry>
@@ -816,139 +816,139 @@
 	</entry>
 	<entry>
 		<key>PYE: I’m receiving much stronger energy readings now that we’re beneath the crust. Whatever it is must lie somewhere below, closer to the &lt;color=lightblue&gt;comet&lt;/color&gt;’s center. And I’m starting to think it’s more dangerous than we realized.</key>
-		<value>PYE: I’m receiving much stronger energy readings now that we’re beneath the crust. Whatever it is must lie somewhere below, closer to the &lt;color=lightblue&gt;comet&lt;/color&gt;’s center. And I’m starting to think it’s more dangerous than we realized.</value>
+		<value>PYE: Tôi đang thu được xung năng lượng mạnh hơn nhiều sau khi xuống dưới lớp vỏ. Thứ đó đang nằm đâu đó phía dưới, gần lõi của &lt;color=lightblue&gt;sao chổi&lt;/color&gt;. Và tôi bắt đầu lo rằng thứ đó nguy hiểm hơn nhiều tôi tưởng.</value>
 	</entry>
 	<entry>
 		<key>PYE: Clary, can you hear us?</key>
-		<value>PYE: Clary, can you hear us?</value>
+		<value>PYE: Clary, có nghe được bọn tôi không?</value>
 	</entry>
 	<entry>
 		<key>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</key>
-		<value>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</value>
+		<value>CLARY: Có, nhưng tiếng nhỏ quá. Tôi sợ rằng ta sẽ mất liên lạc nếu hai người tiến sâu hơn đấy.</value>
 	</entry>
 	<entry>
 		<key>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</key>
-		<value>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</value>
+		<value>POKE: Chị giữ ấm &lt;color=orange&gt;phi thuyền&lt;/color&gt; giúp bọn em nhé, Clary. Tìm được nguồn của xung năng lượng là bọn em sẽ quay lại ngay!</value>
 	</entry>
 	<entry>
 		<key>CLARY: I understand, but... Be cautious, both of you.</key>
-		<value>CLARY: I understand, but... Be cautious, both of you.</value>
+		<value>CLARY: Chị hiểu, nhưng mà... Cẩn thận nhé, cả hai người.</value>
 	</entry>
 	<entry>
 		<key>POKE: The spherical stone casing here seems to be the source of the energy readings... No, rather, the source is what’s within the stone. I’m detecting some form of exotic matter.</key>
-		<value>POKE: The spherical stone casing here seems to be the source of the energy readings... No, rather, the source is what’s within the stone. I’m detecting some form of exotic matter.</value>
+		<value>POKE: Vỏ đá hình cầu này có vẻ là nguồn của xung năng lượng... Không phải, nguồn của nó là thứ đang nằm bên trong mới đúng. Ta đang dò được một loại vật chất lạ.</value>
 	</entry>
 	<entry>
 		<key>PYE: The stone is &lt;i&gt;muting&lt;/i&gt; our energy readings; they should be ten times what we’re seeing, at least.</key>
-		<value>PYE: The stone is &lt;i&gt;muting&lt;/i&gt; our energy readings; they should be ten times what we’re seeing, at least.</value>
+		<value>PYE: Vỏ đá này đang &lt;i&gt;cản lại&lt;/i&gt; xung năng lượng; cường độ thực tế ít nhất cũng phải gấp mười lần những gì mà chúng ta đang thu được.</value>
 	</entry>
 	<entry>
 		<key>POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal.</key>
-		<value>POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal.</value>
+		<value>POKE: Pye, em không nghĩ rằng ta nên tương tác với thứ vật chất này. Theo em suy đoán, tiếp xúc trực tiếp với nó gần như chắc chắn là nguy hiểm chết người.</value>
 	</entry>
 	<entry>
 		<key>PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile.</key>
-		<value>PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile.</value>
+		<value>PYE: Chị cũng chưa từng nhìn thấy lớp vỏ như thế này bao giờ, mà nó lại là điều duy nhất đang bảo vệ chúng ta khỏi thứ bên trong. Tệ hơn nữa, thứ vật chất này cực kỳ bất ổn.</value>
 	</entry>
 	<entry>
 		<key>POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen &lt;i&gt;anything&lt;/i&gt; this tightly compacted before! What &lt;i&gt;is&lt;/i&gt; this?</key>
-		<value>POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen &lt;i&gt;anything&lt;/i&gt; this tightly compacted before! What &lt;i&gt;is&lt;/i&gt; this?</value>
+		<value>POKE: ...Pye. Bất kể thứ gì nằm bên trong lớp vỏ đá này, nó cũng vượt xa cả ngưỡng siêu bất ổn; nó đang bị nén bởi một áp lực khổng lồ. Chị nhìn kết quả quét khối lượng riêng này xem. Em chưa bao giờ thấy &lt;i&gt;thứ gì&lt;/i&gt; bị nén chặt tới vậy cả! Cái &lt;i&gt;quái&lt;/i&gt; gì vậy?</value>
 	</entry>
 	<entry>
 		<key>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</key>
-		<value>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</value>
+		<value>PYE: Chuyện này tệ hơn vạn lần so với chị có thể tưởng tượng được. Nếu hòn đá này mà vỡ ra, vật chất nguy hiểm chết người bên trong sẽ nhanh chóng nở ra, phủ kín hệ sao này trong chớp mắt. Thế mà áp lực vẫn tiếp tục tăng lên khi &lt;color=lightblue&gt;sao chổi&lt;/color&gt; này tiến gần hệ sao hơn...</value>
 	</entry>
 	<entry>
 		<key>PYE: Return to the shuttle, right now! The rest of our friends need to know they’re in terrible danger. Leave your equipment and run!</key>
-		<value>PYE: Return to the shuttle, right now! The rest of our friends need to know they’re in terrible danger. Leave your equipment and run!</value>
+		<value>PYE: Quay về phi thuyền, ngay! Mọi người phải biết rằng họ đang gặp nguy hiểm. Bỏ lại trang thiết bị và chạy khỏi đây ngay!</value>
 	</entry>
 	<entry>
 		<key>POKE: What are you doing, Pye?!</key>
-		<value>POKE: What are you doing, Pye?!</value>
+		<value>POKE: Chị làm gì vậy, chị Pye?!</value>
 	</entry>
 	<entry>
 		<key>PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...&lt;i&gt;Now&lt;/i&gt;, Poke!</key>
-		<value>PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...&lt;i&gt;Now&lt;/i&gt;, Poke!</value>
+		<value>PYE: Ta càng biết nhiều về thứ vật chất kỳ lạ này, khả năng sống sót của của chúng ta cũng sẽ càng lớn. Chị sẽ ở lại để nghiên cứu. Em cứ đi đi, để cảnh báo mọi người; có lẽ họ sẽ kịp thời xây dựng được hầm trú ẩn. ...&lt;i&gt;Đi ngay&lt;/i&gt;, Poke!</value>
 	</entry>
 	<entry>
 		<key>
 			CLARY: I fear our situation may be dire:
 		</key>
 		<value>
-			CLARY: I fear our situation may be dire:
+			CLARY: Tôi sợ rằng tình hình không ổn rồi:
 		</value>
 	</entry>
 	<entry>
 		<key>CLARY: Pye, Poke, and I landed here on this &lt;color=lightblue&gt;comet&lt;/color&gt; not long after its arrival in this star system. Our &lt;color=orange&gt;shuttle&lt;/color&gt;’s equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-		<value>CLARY: Pye, Poke, and I landed here on this &lt;color=lightblue&gt;comet&lt;/color&gt; not long after its arrival in this star system. Our &lt;color=orange&gt;shuttle&lt;/color&gt;’s equipment heard strange energy readings coming from somewhere beneath the surface.</value>
+		<value>CLARY: Pye, Poke, và tôi đáp lên &lt;color=lightblue&gt;sao chổi&lt;/color&gt; không lâu sau khi nó tiến vào hệ sao này. Trang thiết bị trên &lt;color=orange&gt;phi thuyền&lt;/color&gt; của chúng tôi thu được những xung năng lượng kỳ lạ phát ra từ bên dưới bề mặt.</value>
 	</entry>
 	<entry>
 		<key>CLARY: Pye and Poke were able to locate a fissure in the ice on the &lt;color=lightblue&gt;comet&lt;/color&gt;’s sunward side, and they descended inside to investigate the source of the readings.</key>
-		<value>CLARY: Pye and Poke were able to locate a fissure in the ice on the &lt;color=lightblue&gt;comet&lt;/color&gt;’s sunward side, and they descended inside to investigate the source of the readings.</value>
+		<value>CLARY: Pye và Poke đã tìm được một khe nứt của lớp băng trên bề mặt hướng về phía mặt trời của &lt;color=lightblue&gt;sao chổi&lt;/color&gt;, và họ đã xuống phía dưới để điều tra về nguồn phát xung năng lượng.</value>
 	</entry>
 	<entry>
 		<key>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</key>
-		<value>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</value>
+		<value>CLARY: Nhưng mà... Pye và em gái tôi đã ở dưới đó một lúc lâu rồi. Họ cũng chẳng còn liên lạc với tôi sau khi xuống nữa.</value>
 	</entry>
 	<entry>
 		<key>CLARY: Should I leave the &lt;color=orange&gt;shuttle&lt;/color&gt; to look for them? I want to follow protocol, but I don’t know what I’ll do if they aren’t well...</key>
-		<value>CLARY: Should I leave the &lt;color=orange&gt;shuttle&lt;/color&gt; to look for them? I want to follow protocol, but I don’t know what I’ll do if they aren’t well...</value>
+		<value>CLARY: Tôi có nên bỏ lại &lt;color=orange&gt;phi thuyền&lt;/color&gt; để tìm họ không? Tôi vẫn muốn tuân theo kế hoạch, nhưng tôi chẳng biết sẽ phải làm gì nếu có chuyện chẳng lành xảy ra với họ...</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke... Pye... Come back to me safely, my friends.</key>
-		<value>CLARY: Poke... Pye... Come back to me safely, my friends.</value>
+		<value>CLARY: Poke... Pye... Làm ơn bình an quay lại đây đi.</value>
 	</entry>
 	<entry>
 		<key>
 			CLARY: This is troublesome: It seems the &lt;color=lightblue&gt;comet&lt;/color&gt; wishes to submerge our &lt;color=orange&gt;shuttle&lt;/color&gt; in ice. If we stay on the surface too long, the &lt;color=orange&gt;shuttle&lt;/color&gt; may freeze entirely.
 		</key>
 		<value>
-			CLARY: This is troublesome: It seems the &lt;color=lightblue&gt;comet&lt;/color&gt; wishes to submerge our &lt;color=orange&gt;shuttle&lt;/color&gt; in ice. If we stay on the surface too long, the &lt;color=orange&gt;shuttle&lt;/color&gt; may freeze entirely.
+			CLARY: Phiền phức thật đấy: Có vẻ &lt;color=lightblue&gt;sao chổi&lt;/color&gt; này muốn nhấn chìm &lt;color=orange&gt;phi thuyền&lt;/color&gt; của chúng ta trong băng. Nếu ta ở lại bề mặt này quá lâu, &lt;color=orange&gt;phi thuyền&lt;/color&gt; sẽ bị đóng băng hoàn toàn mất.
 		</value>
 	</entry>
 	<entry>
 		<key>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</key>
-		<value>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</value>
+		<value>POKE: Nếu vậy, chẳng phải ai đó vẫn có thể triệu hồi phi thuyền về &lt;color=orange&gt;pháo trọng lực&lt;/color&gt; ở &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; à?</value>
 	</entry>
 	<entry>
 		<key>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</key>
-		<value>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</value>
+		<value>PYE: Đúng vậy, nhưng việc khám phá &lt;color=lightblue&gt;sao chổi&lt;/color&gt; sẽ khó khăn hơn rất nhiều nếu chúng ta không còn &lt;color=orange&gt;phi thuyền&lt;/color&gt; cho tới khi ai đó triệu hồi nó trở lại. Biết thế thì chúng ta đã không hạ cánh ở mặt tối của &lt;color=lightblue&gt;sao chổi&lt;/color&gt; này rồi...</value>
 	</entry>
 	<entry>
 		<key>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</key>
-		<value>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</value>
+		<value>CLARY: Có lẽ chúng ta nên cử một người ở lại bên trong &lt;color=orange&gt;phi thuyền&lt;/color&gt; để giữ ấm và tiếp tục theo dõi bề mặt.</value>
 	</entry>
 	<entry>
 		<key>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</key>
-		<value>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</value>
+		<value>PYE: Tôi thấy phương án này sáng suốt đấy, Clary. Nếu cô không ngại chờ ở đây, Poke và tôi sẽ tiếp tục điều tra bề mặt.</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Mining site 2b&lt;/color&gt;</key>
-		<value>&lt;color=orange&gt;Mining site 2b&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Khu mỏ 2b&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 1: the &lt;color=lightblue&gt;sun&lt;/color&gt;</key>
-		<value>ALIGNMENT 1: the &lt;color=lightblue&gt;sun&lt;/color&gt;</value>
+		<value>ĐƯỜNG NGẮM THẲNG 1: &lt;color=lightblue&gt;Mặt Trời&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 2: the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;</key>
-		<value>ALIGNMENT 2: the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;</value>
+		<value>ĐƯỜNG NGẮM THẲNG 2: &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 3: &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;</key>
-		<value>ALIGNMENT 3: &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;</value>
+		<value>ĐƯỜNG NGẮM THẲNG 3: &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 4: &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;</key>
-		<value>ALIGNMENT 4: &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;</value>
+		<value>ĐƯỜNG NGẮM THẲNG 4: &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 5: &lt;color=lightblue&gt;Giant's Deep&lt;/color&gt;</key>
-		<value>ALIGNMENT 5: &lt;color=lightblue&gt;Giant's Deep&lt;/color&gt;</value>
+		<value>ĐƯỜNG NGẮM THẲNG 5: &lt;color=lightblue&gt;Giant's Deep&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>Self</key>
-		<value>Self</value>
+		<value>Bản thân</value>
 	</entry>
 	<entry>
 		<key>Start...Whoa.</key>
@@ -956,19 +956,19 @@
 	</entry>
 	<entry>
 		<key>SelfStartWhat the heck happened?</key>
-		<value>What the heck happened?</value>
+		<value>Chuyện quái gì đã xảy ra vậy?</value>
 	</entry>
 	<entry>
 		<key>SelfStartThis is the greatest day of my life!</key>
-		<value>This is the greatest day of my life!</value>
+		<value>Đây là ngày tuyệt nhất của đời tôi!</value>
 	</entry>
 	<entry>
 		<key>SelfStartAre you me from the last loop?</key>
-		<value>Are you me from the last loop?</value>
+		<value>Cậu là tôi từ vòng lặp trước à?</value>
 	</entry>
 	<entry>
 		<key>SelfStartThis got weird in a hurry.</key>
-		<value>This got weird in a hurry.</value>
+		<value>Chuyện bắt đầu kỳ cục rồi đấy.</value>
 	</entry>
 	<entry>
 		<key>SelfStartAAAAAAAAAAHHHH!</key>
@@ -976,219 +976,219 @@
 	</entry>
 	<entry>
 		<key>Confused1If you're me, then I'm as confused as you are.</key>
-		<value>If you're me, then I'm as confused as you are.</value>
+		<value>Nếu cậu đúng là tôi, thì tôi cũng bối rối hệt như cậu.</value>
 	</entry>
 	<entry>
 		<key>SelfConfused1Do you think we have the same memories?</key>
-		<value>Do you think we have the same memories?</value>
+		<value>Cậu nghĩ liệu chúng ta có chung ký ức không?</value>
 	</entry>
 	<entry>
 		<key>SelfConfused1Do you think it's okay there's two of us?</key>
-		<value>Do you think it's okay there's two of us?</value>
+		<value>Cậu nghĩ trên đời tồn tại cùng lúc hai chúng ta có ổn không?</value>
 	</entry>
 	<entry>
 		<key>Memories0BGood question. Let's see...</key>
-		<value>Good question. Let's see...</value>
+		<value>Hỏi hay đấy. Để rồi xem...</value>
 	</entry>
 	<entry>
 		<key>Memories1I remember all the time loops, including last loop when I jumped into the black hole in here. What about you?</key>
-		<value>I remember all the time loops, including last loop when I jumped into the black hole in here. What about you?</value>
+		<value>Tôi nhớ hết tất cả các vòng lặp thời gian, bao gồm cả vòng lặp trước khi tôi nhảy vào hố đen trong này. Thế còn cậu?</value>
 	</entry>
 	<entry>
 		<key>SelfMemories1Me, too. Sounds like our memories diverge at the start of this loop.</key>
-		<value>Me, too. Sounds like our memories diverge at the start of this loop.</value>
+		<value>Tôi cũng vậy. Có vẻ ký ức của chúng ta phân nhánh từ đầu vòng lặp này.</value>
 	</entry>
 	<entry>
 		<key>SelfMemories1Same, except I woke up at the campfire, like always.</key>
-		<value>Same, except I woke up at the campfire, like always.</value>
+		<value>Tôi cũng y hệt, khác mỗi việc tôi tỉnh dậy ở bên lửa trại như mọi khi.</value>
 	</entry>
 	<entry>
 		<key>WokeUp1BIt makes sense one of the two versions of us would start at the campfire as usual.</key>
-		<value>It makes sense one of the two versions of us would start at the campfire as usual.</value>
+		<value>Việc một trong hai phiên bản của chúng ta xuất phát bên lửa trại như thường lệ là hợp lý.</value>
 	</entry>
 	<entry>
 		<key>WokeUp1CMakes sense to me, seeing how jumping into the black hole is definitely what created two of us.</key>
-		<value>Makes sense to me, seeing how jumping into the black hole is definitely what created two of us.</value>
+		<value>Nghe hợp lý đấy, có vẻ việc nhảy vào lỗ đen đã tạo ra hai phiên bản của chúng ta.</value>
 	</entry>
 	<entry>
 		<key>Excited1Sure, two of us is great and all, but is it the &lt;i&gt;greatest&lt;/i&gt;? What about the day we, you know... what about that one?</key>
-		<value>Sure, two of us is great and all, but is it the &lt;i&gt;greatest&lt;/i&gt;? What about the day we, you know... what about that one?</value>
+		<value>Phải rồi, hai chúng ta tồn tại đồng thời và gặp cũng tuyệt đấy, nhưng liệu điều đó đã là điều &lt;i&gt;tuyệt nhất&lt;/i&gt; chưa? Thế cái ngày mà chúng ta, cậu cũng biết mà... ngày đó thì sao nhỉ?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited1Are you talking about the day I...?</key>
-		<value>Are you talking about the day I...?</value>
+		<value>Cậu đang nhắc về cái ngày mà tôi...?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited1Oh, right. That one's probably still the greatest.</key>
-		<value>Oh, right. That one's probably still the greatest.</value>
+		<value>Ồ, phải rồi. Ngày đó chắc vẫn là ngày tuyệt nhất.</value>
 	</entry>
 	<entry>
 		<key>Excited2AWhat? No! No, I'm talking about the &lt;i&gt;other&lt;/i&gt; one.</key>
-		<value>What? No! No, I'm talking about the &lt;i&gt;other&lt;/i&gt; one.</value>
+		<value>Hả? Không! Không phải, tôi đang nói về cái ngày &lt;i&gt;khác&lt;/i&gt; cơ.</value>
 	</entry>
 	<entry>
 		<key>SelfExcited2AOH. Yep, that makes way more sense.</key>
-		<value>OH. Yep, that makes way more sense.</value>
+		<value>Ồ. Đúng rồi, như vậy nghe hợp lý hơn hẳn.</value>
 	</entry>
 	<entry>
 		<key>Excited2BHaha, I know, right? But today is probably the next greatest day of our life after that one.</key>
-		<value>Haha, I know, right? But today is probably the next greatest day of our life after that one.</value>
+		<value>Haha, tôi biết mà. Nhưng ngày hôm nay đúng là ngày tuyệt thứ nhì, chỉ sau cái ngày tuyệt nhất đó.</value>
 	</entry>
 	<entry>
 		<key>SelfExcited2BWait, can you read my mind?</key>
-		<value>Wait, can you read my mind?</value>
+		<value>Khoan đã, thế cậu có đọc được suy nghĩ của tôi không?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited2BWhat other memories do you have?</key>
-		<value>What other memories do you have?</value>
+		<value>Ngoài ra cậu còn có những ký ức nào nữa?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited2BThink it's okay there's two of us?</key>
-		<value>Think it's okay there's two of us?</value>
+		<value>Cậu nghĩ việc tồn tại cùng lúc hai chúng ta liệu có ổn không?</value>
 	</entry>
 	<entry>
 		<key>Excited3BDefinitely no. I just have the same memories as you. ...Except for this loop, I mean.</key>
-		<value>Definitely no. I just have the same memories as you. ...Except for this loop, I mean.</value>
+		<value>Chắc chắn là không rồi. Tôi có ký ức y hệt của cậu. ...Ngoại trừ mỗi vòng lặp này thôi.</value>
 	</entry>
 	<entry>
 		<key>Excited3BI started this loop by popping out of a white hole inside the Ash Twin Project, since in the loop before this one I jumped into the black hole.</key>
-		<value>I started this loop by popping out of a white hole inside the Ash Twin Project, since in the loop before this one I jumped into the black hole.</value>
+		<value>Tôi bắt đầu vòng lặp này bằng việc tòi ra khỏi một lỗ trắng trong Dự Án Ash Twin này, vì vòng lặp trước đó tôi đã nhảy vào trong hố đen.</value>
 	</entry>
 	<entry>
 		<key>Excited3AYeah, now you've got it. That was an incredible day.</key>
-		<value>Yeah, now you've got it. That was an incredible day.</value>
+		<value>Phải rồi, giờ cậu hiểu rồi đấy. Ngày hôm đó thật không thể tin nổi mà.</value>
 	</entry>
 	<entry>
 		<key>Excited3ABut today is probably the next greatest day of our life after that one.</key>
-		<value>But today is probably the next greatest day of our life after that one.</value>
+		<value>Nhưng ngày hôm nay đúng là ngày tuyệt thứ nhì, chỉ sau cái ngày tuyệt nhất đó.</value>
 	</entry>
 	<entry>
 		<key>SelfExcited3AWait, can you read my mind?</key>
-		<value>Wait, can you read my mind?</value>
+		<value>Khoan, liệu cậu có đọc được suy nghĩ của tôi không?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited3AWhat other memories do you have?</key>
-		<value>What other memories do you have?</value>
+		<value>Ngoài ra cậu còn có những ký ức nào nữa?</value>
 	</entry>
 	<entry>
 		<key>SelfExcited3AThink it's okay there's two of us?</key>
-		<value>Think it's okay there's two of us?</value>
+		<value>Cậu nghĩ việc tồn tại cùng lúc hai chúng ta liệu có ổn không?</value>
 	</entry>
 	<entry>
 		<key>Memories0ALet's see... We should have all the same memories before the whole "going into space and becoming aware of the alien time loop" thing.</key>
-		<value>Let's see... We should have all the same memories before the whole "going into space and becoming aware of the alien time loop" thing.</value>
+		<value>Xem nào... Chúng ta sẽ có chung ký ức tới khi "bay vào không gian và phát hiện về vòng lặp thời gian".</value>
 	</entry>
 	<entry>
 		<key>Looped1I think so. I started this current loop by popping out of a white hole inside the Ash Twin Project.</key>
-		<value>I think so. I started this current loop by popping out of a white hole inside the Ash Twin Project.</value>
+		<value>Tôi nghĩ vậy. Tôi bắt đầu vòng lặp này khi tòi ra khỏi một lỗ trắng bên trong Dự Án Ash Twin.</value>
 	</entry>
 	<entry>
 		<key>SelfLooped1I started at the campfire like usual.</key>
-		<value>I started at the campfire like usual.</value>
+		<value>Còn tôi vẫn bắt đầu bên lửa trại như mọi khi.</value>
 	</entry>
 	<entry>
 		<key>SelfLooped1What do you remember from before this loop?</key>
-		<value>What do you remember from before this loop?</value>
+		<value>Cậu nhớ được những gì trước vòng lặp này?</value>
 	</entry>
 	<entry>
 		<key>Wrong1Yeah, duplicating living beings probably wasn't what the Nomai had in mind when they built the Ash Twin Project.</key>
-		<value>Yeah, duplicating living beings probably wasn't what the Nomai had in mind when they built the Ash Twin Project.</value>
+		<value>Ừ, nhân bản sinh vật sống có lẽ là điều mà người Nomai chưa tính đến khi họ xây dựng Dự Án Ash Twin.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong1I wonder if we have the same memories.</key>
-		<value>I wonder if we have the same memories.</value>
+		<value>Không biết chúng ta có chung ký ức không nhỉ.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong1I wonder if there being two of us screws anything up.</key>
-		<value>I wonder if there being two of us screws anything up.</value>
+		<value>Không biết việc tồn tại đồng thời hai chúng ta có phá vỡ thứ gì không.</value>
 	</entry>
 	<entry>
 		<key>Wrong2AWell, we're talking to each other and nothing's exploded yet.</key>
-		<value>Well, we're talking to each other and nothing's exploded yet.</value>
+		<value>Ừ thì, .</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2AYeah, it's a pretty novel experience.</key>
-		<value>Yeah, it's a pretty novel experience.</value>
+		<value>Phải ha, cũng là một trải nghiệm mới lạ.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2AGossan always says that means the date's going well.</key>
-		<value>Gossan always says that means the date's going well.</value>
+		<value>Gossan chẳng suốt ngày nói rằng điều đó có nghĩa là buổi hẹn hò đang diễn ra tốt đẹp à?</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2AMaybe the universe doesn't mind two of us.</key>
-		<value>Maybe the universe doesn't mind two of us.</value>
+		<value>Có lẽ vũ trụ này không thấy phiền nếu có hai ta cùng tồn tại.</value>
 	</entry>
 	<entry>
 		<key>Wrong2BWell, we're talking to each other and nothing's exploded yet.</key>
-		<value>Well, we're talking to each other and nothing's exploded yet.</value>
+		<value>Ừ thì, ta vẫn đang nói chuyện với nhau, và vẫn chưa có thứ gì phát nổ cả.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2BThat seems positive.</key>
-		<value>That seems positive.</value>
+		<value>Có vẻ đúng là vậy.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2BYeah, it's a pretty novel experience.</key>
-		<value>Yeah, it's a pretty novel experience.</value>
+		<value>Phải ha, cũng là một trải nghiệm mới lạ.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2BGossan always says that means the date's going well.</key>
-		<value>Gossan always says that means the date's going well.</value>
+		<value>Gossan chẳng suốt ngày nói rằng điều đó có nghĩa là buổi hẹn hò đang diễn ra tốt đẹp à?</value>
 	</entry>
 	<entry>
 		<key>Wrong3AYeah, but it's Slate's definition of a boring date. Makes sense Gossan and Slate never dated.</key>
-		<value>Yeah, but it's Slate's definition of a boring date. Makes sense Gossan and Slate never dated.</value>
+		<value>Đúng rồi, nhưng đó cũng là định nghĩa của Slate về một buổi hẹn hò nhàm chán. Bảo sao Gossan và Slate chẳng bao giờ hẹn hò với nhau.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong3AThat and the whole mishap with Gossan's eye.</key>
-		<value>That and the whole mishap with Gossan's eye.</value>
+		<value>Và cả sự cố với mắt của Gossan nữa.</value>
 	</entry>
 	<entry>
 		<key>Wrong3BRight? It's kind of nice!</key>
-		<value>Right? It's kind of nice!</value>
+		<value>Đúng nhỉ? Trải nghiệm tuyệt phết!</value>
 	</entry>
 	<entry>
 		<key>Wrong3CHopefully not. Besides, an extra version of us is definitely better than if we'd created an extra anglerfish or something.</key>
-		<value>Hopefully not. Besides, an extra version of us is definitely better than if we'd created an extra anglerfish or something.</value>
+		<value>Mong là vậy. Thêm nữa, một phiên bản trùng lặp của chính chúng ta chắc chắn dễ chịu hơn nhiều việc ta tạo ra phiên bản trùng lặp của một con cá cần câu hoặc một thứ gì đó.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong3CGEH.</key>
-		<value>GEH.</value>
+		<value>EO.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong3CThat's setting the bar pretty low.</key>
-		<value>That's setting the bar pretty low.</value>
+		<value>Làm thế thì hạ thấp tiêu chuẩn quá.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong3CAgreed. We're charming and have fewer teeth.</key>
-		<value>Agreed. We're charming and have fewer teeth.</value>
+		<value>Đồng ý. Chúng ta quyến rũ hơn, và có ít răng hơn lũ cá.</value>
 	</entry>
 	<entry>
 		<key>Gossan1Oof. Yes. The eye thing.</key>
-		<value>Oof. Yes. The eye thing.</value>
+		<value>Oof. Phải rồi. Vụ con mắt.</value>
 	</entry>
 	<entry>
 		<key>Gossan1Yeah, that's... yeah.</key>
-		<value>Yeah, that's... yeah.</value>
+		<value>Phải rồi, vụ đó... mà thôi.</value>
 	</entry>
 	<entry>
 		<key>SelfGossan1Yep.</key>
-		<value>Yep.</value>
+		<value>Đúng.</value>
 	</entry>
 	<entry>
 		<key>SelfGossan1Sure is.</key>
-		<value>Sure is.</value>
+		<value>Chuẩn rồi.</value>
 	</entry>
 	<entry>
 		<key>SelfGossan1I very much do not want to discuss that.</key>
-		<value>I very much do not want to discuss that.</value>
+		<value>Tôi chẳng muốn nhắc lại vụ đó tẹo nào.</value>
 	</entry>
 	<entry>
 		<key>Wrong4AMy thoughts exactly.</key>
-		<value>My thoughts exactly.</value>
+		<value>Y hệt suy nghĩ của tôi rồi đấy.</value>
 	</entry>
 	<entry>
 		<key>Wrong4BThat's not just setting the bar low, that's setting it at tripping height.</key>
-		<value>That's not just setting the bar low, that's setting it at tripping height.</value>
+		<value>Không phải chỉ hạ hơi thấp tiêu chuẩn đâu, mà còn thấp tới mức gây vấp ngã luôn.</value>
 	</entry>
 	<entry>
 		<key>Wrong4CThat probably counts for something.</key>
@@ -1196,115 +1196,115 @@
 	</entry>
 	<entry>
 		<key>Segue1AUh huh.</key>
-		<value>Uh huh.</value>
+		<value>Ừ hứ.</value>
 	</entry>
 	<entry>
 		<key>Segue1BNor do I. Hasty segue?</key>
-		<value>Nor do I. Hasty segue?</value>
+		<value>Tôi cũng không. Ta đổi chủ đề luôn nhé?</value>
 	</entry>
 	<entry>
 		<key>SelfSegue1BHasty segue.</key>
-		<value>Hasty segue.</value>
+		<value>Đổi luôn.</value>
 	</entry>
 	<entry>
 		<key>Segue2AQuickly changing the subject, you know how I - er, &lt;i&gt;we&lt;/i&gt; - jumped into the black hole that opened up at the end of the last time loop?</key>
-		<value>Quickly changing the subject, you know how I - er, &lt;i&gt;we&lt;/i&gt; - jumped into the black hole that opened up at the end of the last time loop?</value>
+		<value>Đổi chủ đề luôn này, cậu biết về việc tôi- ừm, &lt;i&gt;chúng ta&lt;/i&gt; - nhảy vào cái hố đen mở ra ở cuối vòng lặp trước chứ?</value>
 	</entry>
 	<entry>
 		<key>Segue2AWhat do you think would happen if you don't jump in this time?</key>
-		<value>What do you think would happen if you don't jump in this time?</value>
+		<value>Vậy cậu nghĩ chuyện gì sẽ xảy ra nếu cậu không nhảy vào hố đen trong vòng lặp này?</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2AHuh. That's a good question.</key>
-		<value>Huh. That's a good question.</value>
+		<value>Hử. Câu hỏi hay đấy.</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2AIf I don't, then where did you come from?</key>
-		<value>If I don't, then where did you come from?</value>
+		<value>Nếu tôi không nhảy, thì cậu tới từ đâu?</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2AGuess we'll find out!</key>
-		<value>Guess we'll find out!</value>
+		<value>Rồi chúng ta sẽ biết thôi!</value>
 	</entry>
 	<entry>
 		<key>Segue2BSo hey, what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>So hey, what do you think happens if you don't jump into the black hole again at the end of this loop?</value>
+		<value>Ơ này, cậu nghĩ chuyện gì sẽ xảy ra nếu cậu không nhảy vào hố đen trong vòng lặp này?</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2BHuh. That's a good question.</key>
-		<value>Huh. That's a good question.</value>
+		<value>Hử. Câu hỏi hay đấy.</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2BIf I don't, then where did you come from?</key>
-		<value>If I don't, then where did you come from?</value>
+		<value>Nếu tôi không nhảy, thì cậu tới từ đâu?</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2BGuess we'll find out!</key>
-		<value>Guess we'll find out!</value>
+		<value>Rồi chúng ta sẽ biết thôi!</value>
 	</entry>
 	<entry>
 		<key>Merge1BI think so, at least. Although here's a question for you — what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>I think so, at least. Although here's a question for you — what do you think happens if you don't jump into the black hole again at the end of this loop?</value>
+		<value>Ít nhất là tôi nghĩ vậy. Nhưng tôi có câu hỏi này cho cậu nè — cậu nghĩ chuyện gì sẽ xảy ra nếu cậu không nhảy vào trong lỗ đen ở cuối vòng lặp này?</value>
 	</entry>
 	<entry>
 		<key>SelfMerge1BHuh. That's a good question.</key>
-		<value>Huh. That's a good question.</value>
+		<value>Hử. Câu hỏi hay đấy.</value>
 	</entry>
 	<entry>
 		<key>SelfMerge1BIf I don't, then where did you come from?</key>
-		<value>If I don't, then where did you come from?</value>
+		<value>Nếu tôi không nhảy, thì cậu tới từ đâu?</value>
 	</entry>
 	<entry>
 		<key>SelfMerge1BGuess we'll find out!</key>
-		<value>Guess we'll find out!</value>
+		<value>Rồi chúng ta sẽ biết thôi!</value>
 	</entry>
 	<entry>
 		<key>MergeHey, what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>Hey, what do you think happens if you don't jump into the black hole again at the end of this loop?</value>
+		<value>Này, cậu nghĩ chuyện gì sẽ xảy ra nếu cậu không nhảy vào trong lỗ đen ở cuối vòng lặp này?</value>
 	</entry>
 	<entry>
 		<key>SelfMergeHuh. That's a good question.</key>
-		<value>Huh. That's a good question.</value>
+		<value>Hử. Câu hỏi hay đấy.</value>
 	</entry>
 	<entry>
 		<key>SelfMergeIf I don't, then where did you come from?</key>
-		<value>If I don't, then where did you come from?</value>
+		<value>Nếu tôi không nhảy, thì cậu tới từ đâu?</value>
 	</entry>
 	<entry>
 		<key>SelfMergeGuess we'll find out!</key>
-		<value>Guess we'll find out!</value>
+		<value>Rồi chúng ta sẽ biết thôi!</value>
 	</entry>
 	<entry>
 		<key>Merge2AIt's something I've been wondering about. We're in thoroughly uncharted territory at this point.</key>
-		<value>It's something I've been wondering about. We're in thoroughly uncharted territory at this point.</value>
+		<value>Tôi cũng thắc mắc điều này một lúc rồi. Chúng ta đang ở trong một miền tri thức chưa từng được khám phá.</value>
 	</entry>
 	<entry>
 		<key>SelfMerge2AUnlike all the other time manipulation we've experienced.</key>
-		<value>Unlike all the other time manipulation we've experienced.</value>
+		<value>Khác hẳn việc thao túng thời gian mà chúng ta đã trải qua.</value>
 	</entry>
 	<entry>
 		<key>SelfMerge2ATruly, we are the Feldspar of weird time stuff.</key>
-		<value>Truly, we are the Feldspar of weird time stuff.</value>
+		<value>Công nhận, chúng ta là Feldspar của dòng thời gian.</value>
 	</entry>
 	<entry>
 		<key>Merge2BThat's a good point.</key>
-		<value>That's a good point.</value>
+		<value>Nói hay đấy.</value>
 	</entry>
 	<entry>
 		<key>Merge2BI mean, I &lt;i&gt;feel&lt;/i&gt; as real as ever, so I don't think I'm a figment of your imagination or anything like that.</key>
-		<value>I mean, I &lt;i&gt;feel&lt;/i&gt; as real as ever, so I don't think I'm a figment of your imagination or anything like that.</value>
+		<value>Tôi vẫn &lt;i&gt;cảm thấy&lt;/i&gt; mình thật như mọi khi, nên tôi không nghĩ rằng mình là một mảnh nhỏ trong trí tưởng tượng của cậu hay gì đâu.</value>
 	</entry>
 	<entry>
 		<key>SelfMerge2BThat's just what a figment of my imagination would say!</key>
-		<value>That's just what a figment of my imagination would say!</value>
+		<value>Đúng y hệt những gì mà một mảnh trong trí tưởng tượng của tôi sẽ nói luôn!</value>
 	</entry>
 	<entry>
 		<key>SelfMerge2BI'm no expert, but you seem pretty real to me.</key>
-		<value>I'm no expert, but you seem pretty real to me.</value>
+		<value>Tôi chẳng phải chuyên gia trong vụ này đâu, nhưng trông cậu rất thật.</value>
 	</entry>
 	<entry>
 		<key>Merge2CI guess so!</key>
-		<value>I guess so!</value>
+		<value>Chắc vậy!</value>
 	</entry>
 	<entry>
 		<key>Merge3AOh geez, Feldspar would just use the time loop to try increasingly outlandish stunts, wouldn't they. Might be a good thing they aren't aware of it.</key>
@@ -1316,31 +1316,31 @@
 	</entry>
 	<entry>
 		<key>SassAre you being sassy? You can't sass me! You &lt;i&gt;are&lt;/i&gt; me!</key>
-		<value>Are you being sassy? You can't sass me! You &lt;i&gt;are&lt;/i&gt; me!</value>
+		<value>Cậu đang trêu tôi phải không? Cậu trêu tôi thế nào được! Cậu &lt;i&gt;là&lt;/i&gt; tôi mà!</value>
 	</entry>
 	<entry>
 		<key>SassDoes kind of prove we're the same person, though.</key>
-		<value>Does kind of prove we're the same person, though.</value>
+		<value>Nhưng thế cũng chứng minh được rằng chúng ta là cùng một người.</value>
 	</entry>
 	<entry>
 		<key>IntroEndAt any rate, it's been good talking to you, me. &lt;Pause/&gt; ...Incredibly strange, but good.</key>
-		<value>At any rate, it's been good talking to you, me. &lt;Pause/&gt; ...Incredibly strange, but good.</value>
+		<value>Dù sao thì, thật tuyệt khi được nói chuyện với cậu, bản thân tôi ạ. &lt;Pause/&gt; ...Rất lạ, nhưng cũng rất tuyệt.</value>
 	</entry>
 	<entry>
 		<key>IntroEndSee you around!</key>
-		<value>See you around!</value>
+		<value>Gặp lại sau nhé!</value>
 	</entry>
 	<entry>
 		<key>Panic1What have we done?! Jumping into that black hole was a &lt;i&gt;terrible&lt;/i&gt; idea!</key>
-		<value>What have we done?! Jumping into that black hole was a &lt;i&gt;terrible&lt;/i&gt; idea!</value>
+		<value>Ta đã làm gì thế nào?! Nhảy vào cái hố đen đó quả thật là một ý tưởng &lt;i&gt;tồi tệ&lt;/i&gt; mà!</value>
 	</entry>
 	<entry>
 		<key>SelfPanic1Yes. Yes, it was.</key>
-		<value>Yes. Yes, it was.</value>
+		<value>Đúng. Đúng vậy, tệ cực kỳ.</value>
 	</entry>
 	<entry>
 		<key>SelfPanic1I needed to know what would happen.</key>
-		<value>I needed to know what would happen.</value>
+		<value>Tôi cần biết chuyện gì sẽ xảy ra.</value>
 	</entry>
 	<entry>
 		<key>SelfPanic1AAAAAAAAAAAAHHH!</key>
@@ -1348,7 +1348,7 @@
 	</entry>
 	<entry>
 		<key>PanicRedirect1...Okay. Okay, I'm calm.</key>
-		<value>...Okay. Okay, I'm calm.</value>
+		<value>...Okay. Okay, tôi bình tĩnh lại rồi.</value>
 	</entry>
 	<entry>
 		<key>Panic2AAAAAAAAAAAAHHH!</key>
@@ -1356,7 +1356,7 @@
 	</entry>
 	<entry>
 		<key>SelfPanic2Just needed to get that out of my system.</key>
-		<value>Just needed to get that out of my system.</value>
+		<value>Phải tống thứ đó ra khỏi cơ thể tôi.</value>
 	</entry>
 	<entry>
 		<key>SelfPanic2AAAAAAAAAAAAAAAHHH!</key>
@@ -1364,7 +1364,7 @@
 	</entry>
 	<entry>
 		<key>PanicRedirect2AAAAAAAAHHHhhhokay, I'm done screaming, too.</key>
-		<value>AAAAAAAAHHHhhhokay, I'm done screaming, too.</value>
+		<value>AAAAAAAAHHHhhhokay, tôi hét cũng đủ rồi.</value>
 	</entry>
 	<entry>
 		<key>Panic3AAAAAAAAAAAAAAAHHH! &lt;b&gt;AAAAAAAAAAAAAAAAAAAHHH!&lt;/b&gt;</key>
@@ -1404,11 +1404,11 @@
 	</entry>
 	<entry>
 		<key>Panic5AAAAAAAHHHhhh... (pant, pant)&lt;Pause/&gt;...</key>
-		<value>AAAAAAAHHHhhh... (pant, pant)&lt;Pause/&gt;...</value>
+		<value>AAAAAAAHHHhhh... (phù, phù)&lt;Pause/&gt;...</value>
 	</entry>
 	<entry>
 		<key>SelfPanic5You good?</key>
-		<value>You good?</value>
+		<value>Cậu ổn chứ?</value>
 	</entry>
 	<entry>
 		<key>SelfPanic5...AAAAAAH! AAAAAAAAAAAAAHHH!!</key>
@@ -1416,7 +1416,7 @@
 	</entry>
 	<entry>
 		<key>PanicRedirect3...I'm good.</key>
-		<value>...I'm good.</value>
+		<value>...Tôi ổn.</value>
 	</entry>
 	<entry>
 		<key>Panic6&lt;size=50&gt;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHH!!&lt;/size&gt;</key>
@@ -1424,31 +1424,31 @@
 	</entry>
 	<entry>
 		<key>post intro menuHey, me.</key>
-		<value>Hey, me.</value>
+		<value>Này, bản thân tôi ơi.</value>
 	</entry>
 	<entry>
 		<key>Selfpost intro menuRemember leaving on our first solo trip?</key>
-		<value>Remember leaving on our first solo trip?</value>
+		<value>Cậu nhớ lần đầu tiên chúng ta tự mình bay lên vũ trụ không?</value>
 	</entry>
 	<entry>
 		<key>Selfpost intro menuRemember landing our ship on the Sun Station?</key>
-		<value>Remember landing our ship on the Sun Station?</value>
+		<value>Cậu nhớ cái lần chúng ta hạ cánh lên Trạm Mặt Trời không?</value>
 	</entry>
 	<entry>
 		<key>should be deadYeah! That feels like ages ago.\\n\\nWe'd have died that first time out if the time loop didn't exist, though. Isn't that weird to think about?</key>
-		<value>Yeah! That feels like ages ago.\\n\\nWe'd have died that first time out if the time loop didn't exist, though. Isn't that weird to think about?</value>
+		<value>Có chứ! Cảm giác như đã lâu lắm rồi.\\n\\nNhưng không có vòng lặp thời gian này thì chúng ta đã chết ngay tại vòng lặp đầu tiên luôn. Nghĩ xem chuyện này kỳ lạ không?</value>
 	</entry>
 	<entry>
 		<key>Selfshould be deadWeirder than there being two of us now?</key>
-		<value>Weirder than there being two of us now?</value>
+		<value>Có kỳ lạ hơn việc hai phiên bản của chúng ta tồn tại đồng thời không?</value>
 	</entry>
 	<entry>
 		<key>Selfshould be deadWe were disasterously unprepared for space.</key>
-		<value>We were disasterously unprepared for space.</value>
+		<value>Rõ ràng chúng ta chưa sẵn sàng để bay vào không gian mà.</value>
 	</entry>
 	<entry>
 		<key>should be dead 2bTuff was right - I AM the worst.</key>
-		<value>Tuff was right - I AM the worst.</value>
+		<value>Tuff đã đúng - Tôi là kẻ tệ nhất.</value>
 	</entry>
 	<entry>
 		<key>should be dead 2aWow, I guess I AM pretty sarcastic.</key>
