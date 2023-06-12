@@ -74,7 +74,7 @@
 	</entry>
 	<entry>
 		<key>POKE: I would very much like to craft such a powerful core! More relevantly, I believe the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; crew and I could recreate the basic design.</key>
-		<value>POKE: Tôi rất mong muốn được chế tạo một chiếc lõi mạnh mẽ tới vậy! Liên quan hơn nữa, tôi tin rằng các thành viên của &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt; có thể tái tạo được thiết kế cơ bản.</value>
+		<value>POKE: Tôi rất mong muốn có được cơ hội thử sức chế tạo một chiếc lõi mạnh mẽ tới vậy! Hơn nữa, tôi cũng tin rằng các thành viên của &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt; sẽ có thể tái tạo được thiết kế cơ bản.</value>
 	</entry>
 	<entry>
 		<key>
@@ -395,7 +395,7 @@
 			PLUME: The &lt;i&gt;trees&lt;/i&gt; are moving! The trees in this grove wander about freely (the entire plant, roots and all)! This is &lt;i&gt;not normal&lt;/i&gt;, even for this alien planet. And I never see them move! Is that even possible?!
 		</key>
 		<value>
-			PLUME: &lt;i&gt;Mấy cái cây&lt;/i&gt; đang chuyển động! Cây ở nơi này có thể thay đổi vị trí một cách vô tổ chức (di chuyển cả cái cây luôn, từ rễ đến lá)! Điều này &lt;i&gt;không bình thường chút nào&lt;/i&gt;, kể cả đối với hành tinh xa lạ này. Và tôi chưa nhìn thấy được cách mà chúng chuyển động! Sao lại có thể như thế được?!
+			PLUME: &lt;i&gt;Mấy cái cây&lt;/i&gt; đang chuyển động! Cây ở nơi này có thể thay đổi vị trí một cách vô tổ chức (di chuyển nguyên cả cái cây luôn, từ rễ đến lá)! Điều này &lt;i&gt;không bình thường chút nào&lt;/i&gt;, kể cả đối với hành tinh xa lạ này. Và tôi chưa nhìn thấy được cách mà chúng chuyển động! Sao lại có thể như thế được?!
 		</value>
 	</entry>
 	<entry>
@@ -427,7 +427,7 @@
 			FILIX: That rock is unusual for another reason, too, Thatch: It possesses color and texture I’ve never seen elsewhere on this planet!
 		</key>
 		<value>
-			FILIX: Hòn đá ấy cũng kỳ dị luôn, Thatch! Nó mang thứ màu sắc và kết cấu tôi chưa từng nhìn thấy ở nơi nào khác trên hành tinh này!
+			FILIX: Hòn đá ấy cũng kỳ dị luôn, Thatch! Nó mang màu sắc và kết cấu tôi chưa từng nhìn thấy ở nơi nào khác trên hành tinh này!
 		</value>
 	</entry>
 	<entry>
@@ -459,7 +459,7 @@
 			PLUME: In her note from earlier, Filix mentions this strange type of rock isn’t found elsewhere on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. What if it isn’t originally from this planet?
 		</key>
 		<value>
-			PLUME: Theo ghi chép trước đó của Filix, cô ấy nói rằng loại đá kỳ lạ này chẳng thể tìm thấy ở nơi nào khác trên &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. Nếu như nguồn gốc của nó chẳng phải từ hành tinh thì sao?
+			PLUME: Theo ghi chép trước đó của Filix, cô ấy nói rằng loại đá kỳ lạ này chẳng thể tìm thấy ở nơi nào khác trên &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. Nếu như nguồn gốc của nó không phải từ hành tinh này thì sao?
 		</value>
 	</entry>
 	<entry>
@@ -475,15 +475,15 @@
 			FILIX: Of note: A unique signal is coming from this shard! Curiously, our friend the &lt;color=lightblue&gt;wandering moon&lt;/color&gt; sounds the same.
 		</key>
 		<value>
-			FILIX: Đáng lưu ý: Một tín hiệu đặc biệt phát ra từ mảnh đá này! Điều khiến tôi tò mò hơn nữa, là anh bạn &lt;color=lightblue&gt;mặt trăng lảng vảng&lt;/color&gt; của chúng ta cũng phát ra tín hiệu tương tự.
+			FILIX: Đáng chú ý hơn: Tồn tại một tín hiệu đặc biệt đang phát ra từ mảnh đá này! Điều khiến tôi tò mò hơn nữa, là anh bạn &lt;color=lightblue&gt;mặt trăng lảng vảng&lt;/color&gt; của chúng ta cũng phát ra tín hiệu tương tự.
 		</value>
 	</entry>
 	<entry>
 		<key>
-			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
+			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
 		</key>
 		<value>
-			FILIX: Tôi cũng nghe được tín hiệu tương tự phát ra từ &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, và cả &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Có lẽ còn nhiều mảnh đá khác giống thế này!
+			FILIX: Tôi cũng nghe được tín hiệu tương tự phát ra từ &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, và cả &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Có lẽ tại đó cũng tồn tại những mảnh đá tương tự thứ này!
 		</value>
 	</entry>
 	<entry>
@@ -1700,11 +1700,11 @@
 	</entry>
 	<entry>
 		<key>OENO: I’m still amazed by how much ore the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires!</key>
-		<value>OENO: Tôi vẫn thấy kinh ngạc về lượng quặng mà &lt;color=orange&gt;Dự Án Ash Twin&lt;/color&gt; yêu cầu đấy!</value>
+		<value>OENO: Tôi vẫn kinh ngạc về lượng quặng mà &lt;color=orange&gt;Dự Án Ash Twin&lt;/color&gt; yêu cầu đấy!</value>
 	</entry>
 	<entry>
 		<key>CYCAD: Isn’t this the ore for the remaining towers being built on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;? The completed towers I’ve seen are quite large!</key>
-		<value>CYCAD: Chẳng phải số quặng này là dành cho việc xây dựng các tháp dịch chuyển còn lại trên &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; ạ? Em thấy mấy tòa tháp đã hoàn thiện cũng đồ sộ lắm!</value>
+		<value>CYCAD: Chẳng phải số quặng này là dành cho việc xây dựng các tháp dịch chuyển còn lại trên &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; ạ? Cháu thấy mấy tòa tháp đã xây xong cũng đồ sộ lắm!</value>
 	</entry>
 	<entry>
 		<key>OENO: No, the material for those towers is all being taken from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber inside &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;’s core.</key>
@@ -1712,7 +1712,7 @@
 	</entry>
 	<entry>
 		<key>COLEUS: I’m relieved by our clan’s decision to use &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!</key>
-		<value>COLEUS: Tôi cũng an tâm khi bộ tộc chúng ta quyết định chỉ sử dụng quặng khai thác tại &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt; để xây dựng duy nhất lớp vỏ bảo vệ. Nếu, một lúc nào đó, sự sống trên hành tinh này tiến hóa và phát triển được luyện kim, tôi tin rằng chúng ta đã không hủy hoại tiềm năng của họ!</value>
+		<value>COLEUS: Thật an tâm khi bộ tộc chúng ta quyết định chỉ sử dụng quặng khai thác tại &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt; để xây dựng duy nhất lớp vỏ bảo vệ. Nếu, một lúc nào đó, sự sống trên hành tinh này tiến hóa và phát triển được ngành luyện kim, tôi tin rằng chúng ta đã không hủy hoại tiềm năng của họ!</value>
 	</entry>
 	<entry>
 		<key>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</key>

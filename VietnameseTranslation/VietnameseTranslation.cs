@@ -8,20 +8,7 @@ namespace VietnameseTranslation
     public class VietnameseTranslation : ModBehaviour
     {
         public static VietnameseTranslation Instance;
-
-        private AssetBundle bundle;
-        public AssetBundle Bundle
-        {
-            get
-            {
-                if (bundle == null)
-                {
-                    bundle = ModHelper.Assets.LoadBundle("assets/font");
-                }
-                return bundle;
-            }
-        }
-
+        
         private void Awake()
         {
             // You won't be able to access OWML's mod helper in Awake.
@@ -34,9 +21,9 @@ namespace VietnameseTranslation
             var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
             api.RegisterLanguage(this, "Vietnamese", "assets/VietnameseTranslation.xml");
 
-            Instance = this;
+            //Instance = this;
             //ModHelper.HarmonyHelper.AddPrefix<NomaiTranslatorProp>("InitializeFont", typeof(VietnameseTranslation), nameof(VietnameseTranslation.InitTranslatorFont));
-            ModHelper.HarmonyHelper.AddPrefix<TextTranslation>("GetFont", typeof(VietnameseTranslation), nameof(VietnameseTranslation.GetFont));
+            //ModHelper.HarmonyHelper.AddPrefix<TextTranslation>("GetFont", typeof(VietnameseTranslation), nameof(VietnameseTranslation.GetFont));
             //api.AddLanguageFont(this, "Space Mono", "assets/spacemono-regular", "Assets/SpaceMono-Regular.ttf");
 
 
@@ -54,38 +41,5 @@ namespace VietnameseTranslation
             //};
         }
 
-        private static bool InitTranslatorFont(
-            ref Font ____fontInUse,
-            ref Font ____dynamicFontInUse,
-            ref float ____fontSpacingInUse,
-            ref Text ____textField)
-        {
-            ____fontInUse = VietnameseTranslation.self.NotoSansTcMed;
-            ____dynamicFontInUse = VietnameseTranslation.self.NotoSansTcMedDyn;
-            ____fontSpacingInUse = TextTranslation.GetDefaultFontSpacing();
-            ____textField.font = ____fontInUse;
-            ____textField.lineSpacing = ____fontSpacingInUse;
-            return false;
-        }
-
-        private static bool GetFont(
-            bool dynamicFont,
-            ref Font __result)
-        {
-            if (TextTranslation.Get().GetLanguage() != TextTranslation.Language.CHINESE_SIMPLE)
-            {
-                return true;
-            }
-
-            if (dynamicFont)
-            {
-                __result = VietnameseTranslation.Instance.NotoSansTcMedDyn;
-            }
-            else
-            {
-                __result = VietnameseTranslation.Instance.NotoSansTcMed;
-            }
-            return false;
-        }
     }
 }
